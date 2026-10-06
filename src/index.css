@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;600&family=Playfair+Display:wght@600;700&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-bengali: 'Hind Siliguri', system-ui, sans-serif;
+}
+
+body {
+  @apply bg-amber-50 text-stone-900 antialiased;
+  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+}

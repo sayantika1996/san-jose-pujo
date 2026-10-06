@@ -1,0 +1,3866 @@
+{
+  "meta": {
+    "year": 2026,
+    "lastVerified": "2026-10-05",
+    "tithiReference": [
+      {
+        "date": "2026-10-10",
+        "label": "Mahalaya (Ashwina Amavasya, Sarva Pitru Amavasya)",
+        "labelBn": "মহালয়া"
+      },
+      {
+        "date": "2026-10-16",
+        "label": "Shashthi (Bodhon)",
+        "labelBn": "ষষ্ঠী"
+      },
+      {
+        "date": "2026-10-17",
+        "label": "Maha Saptami",
+        "labelBn": "সপ্তমী"
+      },
+      {
+        "date": "2026-10-18",
+        "label": "Maha Ashtami (Sandhi Puja)",
+        "labelBn": "অষ্টমী"
+      },
+      {
+        "date": "2026-10-19",
+        "label": "Maha Nabami",
+        "labelBn": "নবমী"
+      },
+      {
+        "date": "2026-10-20",
+        "label": "Dashami (Visarjan, Sindoor Utsav)",
+        "labelBn": "দশমী"
+      }
+    ],
+    "sourceNote": "Dates and details from organizer websites (Abahan, Aadya, MitraUSA, Muktangan, Prothoma, Aantorik, Sanskriti, Pashchimi, Utsav Sacramento, Prabasi, Agomoni, BAPuja, Shirdi Sai Darbar, Bengal Club) and the Abahan Bay Area directory. Tithi timings per Drik Panchang. Schedules change — always confirm with the organizer before traveling. Mahalaya 2026 (Ashwina Amavasya, Oct 10) per Drik Panchang.",
+    "mahalaya": {
+      "date": "2026-10-10",
+      "dateLabel": "Saturday, October 10, 2026",
+      "tithi": "Ashwina Amavasya",
+      "title": "Mahalaya — মহালয়া",
+      "significance": "End of Pitru Paksha (Sep 26 – Oct 10) and the eve of Devi Paksha. Traditionally the day Bengalis invoke Maa Durga with 'Ya Devi Sarvabhuteshu' and listen to Birendra Krishna Bhadra's Mahishasuramardini broadcast at dawn.",
+      "mahishasuramardini": "Since 1931 (except a brief substitution in 1976), All India Radio has broadcast Birendra Krishna Bhadra's Mahishasuramardini — Chandipath and songs — at 4 AM on Mahalaya morning.",
+      "tarpan": "Many perform Mahalaya tarpan for ancestors on Sarva Pitru Amavasya before the festive fortnight begins."
+    }
+  },
+  "pujas": [
+    {
+      "id": "abahan",
+      "name": "Abahan Bay Area Durga Puja",
+      "organizer": "Abahan Bay Area",
+      "region": "South Bay",
+      "weekend": 1,
+      "dates": [
+        {
+          "date": "2026-10-10"
+        },
+        {
+          "date": "2026-10-11"
+        }
+      ],
+      "dateLabel": "Oct 10–11, 2026",
+      "description": "Abahan Bay Area's first Durga Puja brings dhak, devotion, adda, food, culture, and family together at ICC Milpitas.",
+      "venue": {
+        "name": "India Community Center",
+        "address": "525 Los Coches St",
+        "city": "Milpitas",
+        "lat": 37.4319231,
+        "lng": -121.8952529
+      },
+      "schedule": [
+        {
+          "date": "2026-10-10",
+          "start": "08:00",
+          "end": "09:30",
+          "title": "Maha Shasthi — Bodhon, Amantran, Adhibas",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "10:00",
+          "end": "12:00",
+          "title": "Maha Saptami — Puja, Arati, Prasad Distribution",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "12:30",
+          "end": "13:30",
+          "title": "Lunch (Members only)",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "13:30",
+          "end": "15:30",
+          "title": "Maha Ashtami — Puja, Bhog, Prasad Distribution",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "14:00",
+          "end": "14:00",
+          "title": "Sankalpa Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "14:30",
+          "end": "14:30",
+          "title": "Maha Ashtami Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "15:30",
+          "end": "21:00",
+          "title": "Cultural Program (on stage)",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "18:00",
+          "end": "18:15",
+          "title": "Sandhya Arati (during cultural program)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "21:00",
+          "end": "22:00",
+          "title": "Dinner (Members only)",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "09:00",
+          "end": "10:00",
+          "title": "Sandhi Puja — Podmo & Pradeep Daan, Bhog & Arati, Prasad",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "10:00",
+          "end": "12:00",
+          "title": "Maha Nabami — Puja, Pushpanjali, Arati",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "12:00",
+          "end": "13:00",
+          "title": "Kumari Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "13:00",
+          "end": "14:00",
+          "title": "Lunch (Members only)",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "14:00",
+          "end": "15:30",
+          "title": "Maha Dasami — Puja, Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "15:30",
+          "end": "17:30",
+          "title": "Pratima Baran, Sindur Khela",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "17:30",
+          "end": "19:00",
+          "title": "Oikyotan — Bangla Band (Live music)",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "20:00",
+          "end": "21:00",
+          "title": "Dinner (Members only)",
+          "type": "food"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Food partners on site: The Char House, Snehlata Misti Bari, ChaiAum. Bhog and offerings via the Pujo support page.",
+        "purchaseUrl": "https://www.zeffy.com/en-US/ticketing/durga-puja--2026"
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": "https://www.zeffy.com/en-US/ticketing/durga-puja--2026",
+        "notes": "Entry free; sponsorships, offerings and vendor options via Zeffy."
+      },
+      "links": {
+        "website": "https://abahanbayarea.org/",
+        "facebook": "https://www.facebook.com/profile.php?id=61587113098696",
+        "instagram": "https://www.instagram.com/abahanbayarea/"
+      },
+      "highlights": [
+        "First-year puja",
+        "ICC Milpitas venue",
+        "Oikyotan Bangla Band live Oct 11 evening",
+        "Food & merchandise partners on site"
+      ],
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "date": "2026-10-10",
+          "time": "15:30",
+          "title": "Cultural Program (Music, Drama & Dance)",
+          "artist": "Local Artists & Members",
+          "description": "Afternoon-into-evening cultural showcase featuring community music, dance, and theatrical performances; Sandhya Arati held during the program at 6 PM.",
+          "free": true
+        },
+        {
+          "date": "2026-10-11",
+          "time": "17:30",
+          "title": "Oikyotan — Bangla Band",
+          "artist": "Oikyotan",
+          "description": "Live Bangla band performance following Pratima Baran and Sindur Khela.",
+          "free": true
+        }
+      ],
+      "contact": {
+        "email": "Info@abahanbayarea.org",
+        "phone": "+1 (585) 635-8443"
+      },
+      "notices": [
+        "Vendor and volunteer signups are currently closed.",
+        "All times posted are Pacific Time (PT) per organizer's site."
+      ],
+      "hours": [
+        {
+          "date": "2026-10-10",
+          "open": "08:00",
+          "close": "22:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-11",
+          "open": "09:00",
+          "close": "21:00",
+          "source": "organizer"
+        }
+      ],
+      "sources": [
+        "https://abahanbayarea.org/"
+      ],
+      "researchNote": "Replaced placeholder schedule with organizer's published detailed timings (Shasthi 8-9:30am through Dinner), added Oikyotan Bangla Band live performance, and refined hours."
+    },
+    {
+      "id": "aadya",
+      "name": "Aadya Durga Puja",
+      "organizer": "Aadya Together",
+      "region": "Central Valley",
+      "weekend": 1,
+      "dates": [
+        {
+          "date": "2026-10-09"
+        },
+        {
+          "date": "2026-10-10"
+        },
+        {
+          "date": "2026-10-11"
+        }
+      ],
+      "dateLabel": "Oct 9–11, 2026",
+      "description": "Fifth anniversary celebration themed Panchatatva, honoring earth, water, fire, air, and space. Free event, open to all.",
+      "venue": {
+        "name": "Golden West School",
+        "address": "1551 Luella Ave",
+        "city": "Manteca",
+        "lat": 37.8106697,
+        "lng": -121.2178472
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": null,
+        "notes": "Listed as a free event, open to all (per organizer social posts and event aggregators)."
+      },
+      "links": {
+        "website": "https://www.aadyatogether.org/",
+        "facebook": "https://www.facebook.com/profile.php?id=61577757260905"
+      },
+      "highlights": [
+        "5th anniversary — Panchatatva theme",
+        "Cultural programs & bhog team",
+        "Free, open-to-all event",
+        "On-site flu shot clinic arranged for attendees"
+      ],
+      "status": "partial",
+      "culturalPrograms": [],
+      "contact": {},
+      "notices": [
+        "Detailed ritual/cultural schedule and bhog pricing not yet published by the organizer as of early Oct 2026 — confirm closer to the date."
+      ],
+      "hours": [],
+      "sources": [
+        "https://www.aadyatogether.org/",
+        "https://rabimba.github.io/baypujo/pujas/aadya",
+        "https://happeningnext.com/event/durga-puja-2026-eid3a0dmt5sxh",
+        "https://bayarea.telugutimes.net/temples/aadya-announces-fundraiser-for-the-5th-milestone-durga-puja-2026-celebrations"
+      ],
+      "researchNote": "Confirmed dates/venue/theme unchanged; added free-entry confirmation and flu-shot-clinic note. No detailed ritual schedule found yet for 2026 — still partial."
+    },
+    {
+      "id": "mitra",
+      "name": "MitraUSA Durga Puja",
+      "organizer": "MitraUSA",
+      "region": "Central Valley",
+      "weekend": 1,
+      "dates": [
+        {
+          "date": "2026-10-09"
+        },
+        {
+          "date": "2026-10-10"
+        },
+        {
+          "date": "2026-10-11"
+        }
+      ],
+      "dateLabel": "Oct 9–11, 2026 (Navaratri & Durga Puja)",
+      "description": "Central Valley nonprofit founded 2022; 5th-year Durga Puja and Navaratri celebration — three days of faith, culture, and community at a new venue in Lathrop.",
+      "venue": {
+        "name": "Mossdale Elementary School",
+        "address": "455 Brookhurst Blvd",
+        "city": "Lathrop",
+        "lat": 37.8277384,
+        "lng": -121.3035205,
+        "coordsApprox": true
+      },
+      "schedule": [
+        {
+          "date": "2026-10-10",
+          "start": "12:00",
+          "end": "17:00",
+          "title": "Saptami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "17:00",
+          "end": "19:30",
+          "title": "Mitra's Got Talent — stage performances",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "12:30",
+          "end": "13:00",
+          "title": "Kumari Puja",
+          "type": "ritual"
+        }
+      ],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": null,
+        "notes": "Most events are free; optional ticketed add-ons via Zeffy include a Dandiya/live-concert night (\"Mehfil-e-Mitra\" / \"Kaun Banega Dandiya Dhurandhar\") — confirm exact date/time with organizer."
+      },
+      "links": {
+        "website": "https://mitra-usa.org/",
+        "facebook": "https://www.facebook.com/Mitraofusa/"
+      },
+      "highlights": [
+        "Venue moved to Mossdale Elementary School, 455 Brookhurst Blvd, Lathrop (River Islands area)",
+        "Kumari Puja Sun Oct 11, 12:30–1:00 PM",
+        "Mitra's Got Talent stage show Sat Oct 10",
+        "Sindoor Khela & Bisorjon on closing day",
+        "Optional ticketed Dandiya/concert night via Zeffy"
+      ],
+      "status": "partial",
+      "culturalPrograms": [
+        {
+          "title": "Mitra's Got Talent — community stage performances",
+          "date": "2026-10-10",
+          "time": "17:00",
+          "artist": null,
+          "description": "Community solo/group stage performance show; registration was via Zeffy ($5 solo / $10 group)."
+        }
+      ],
+      "contact": {
+        "email": "info@mitra-usa.org"
+      },
+      "notices": [
+        "Venue changed from Lathrop High School (prior listing) to Mossdale Elementary School, 455 Brookhurst Blvd, Lathrop, CA 95330 — confirm before traveling.",
+        "Separately ticketed Dandiya/live-concert nights (Mehfil-e-Mitra, Kaun Banega Dandiya Dhurandhar) are promoted via Zeffy; it is unclear if these fall on Oct 9–11 or other Navaratri dates — check organizer."
+      ],
+      "hours": [],
+      "sources": [
+        "https://mitra-usa.org/",
+        "https://www.facebook.com/Mitraofusa/posts/25-days-to-go-mitra-usa-durga-puja-2026-is-almost-here-three-days-of-faith-cultu/1121042310588794",
+        "https://www.instagram.com/p/Dc7I43WzBHQ",
+        "https://www.zeffy.com/en-US/ticketing/stage-performance-registration-navaratri-and-durga-puja--2026",
+        "https://www.zeffy.com/en-US/ticketing/mehfil-e-mitra",
+        "https://www.zeffy.com/en-US/ticketing/mitra-presents-kaun-banega-dandiya-dhurandhar-dandiya-night--2026"
+      ],
+      "researchNote": "Venue changed to Mossdale Elementary School (455 Brookhurst Blvd, Lathrop) — previous record's 'Lathrop High School' appears outdated. Added partial ritual/cultural schedule (Saptami, Kumari Puja, stage show, Sindoor Khela) and noted optional ticketed Dandiya/concert events."
+    },
+    {
+      "id": "muktangan",
+      "name": "Muktangan Durga Puja",
+      "organizer": "Muktangan (East Bay Bengali Association)",
+      "region": "East Bay",
+      "weekend": 1,
+      "dates": [
+        {
+          "date": "2026-10-10"
+        },
+        {
+          "date": "2026-10-11"
+        }
+      ],
+      "dateLabel": "Oct 10–11, 2026",
+      "description": "Muktangan's two-day Durga Puja — 'APONJON' — featuring a food festival, cultural programs (songs, dance, drama, fashion show), and a live performance by singer Fakira, now held at Freedom High School in Oakley (moved from Brentwood City Park/Brentwood Community Center).",
+      "venue": {
+        "name": "Freedom High School",
+        "address": "1050 Neroly Rd",
+        "city": "Oakley",
+        "lat": 37.9936,
+        "lng": -121.7418,
+        "coordsApprox": true
+      },
+      "schedule": [
+        {
+          "date": "2026-10-10",
+          "start": "17:00",
+          "title": "Doors open",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "18:00",
+          "end": "21:00",
+          "title": "Cultural Program",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "21:00",
+          "title": "Dinner",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "12:00",
+          "title": "Doors open",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "12:30",
+          "title": "Anjali & Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "18:00",
+          "end": "21:00",
+          "title": "Cultural Program",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "21:00",
+          "title": "Sindoor Khela & Visarjan",
+          "type": "ritual"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Food festival with authentic Bengali cuisine — khichuri, luchi, mixed veg, fish curry, mutton curry, and traditional sweets. Complimentary entry & bhog mentioned in community posts. Local vendors also serve Bengali snacks, chaat and sweets (vendor list TBA)."
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": "https://www.zeffy.com/en-US/ticketing/muktangan-durga-puja-2026-event-partnership",
+        "notes": "Packages ('APONJON') reported starting at $40 for kids and $50 for adults per Instagram announcement; community posts separately mention complimentary entry & bhog. Confirm current pricing with organizer."
+      },
+      "links": {
+        "website": "https://muktangan.us/durga-puja-2026/",
+        "facebook": "https://www.facebook.com/muktangan.us"
+      },
+      "highlights": [
+        "Venue moved to Freedom High School, Oakley, CA (from Brentwood City Park)",
+        "Live performance by singer Fakira",
+        "Food festival with Bengali cuisine and local vendors",
+        "Cultural programs: songs, dance, drama, fashion show",
+        "Free on-site parking"
+      ],
+      "status": "partial",
+      "culturalPrograms": [
+        {
+          "title": "Live performance by Fakira",
+          "date": null,
+          "artist": "Fakira",
+          "description": "Live singer performance during the Durga Puja weekend, per organizer's Facebook/Instagram announcements."
+        },
+        {
+          "title": "Cultural Program (songs, dance, drama, fashion show)",
+          "date": "2026-10-10",
+          "time": "18:00",
+          "artist": null,
+          "description": "Saturday evening cultural program followed by dinner."
+        },
+        {
+          "title": "Cultural Program (songs, dance, drama, fashion show)",
+          "date": "2026-10-11",
+          "time": "18:00",
+          "artist": null,
+          "description": "Sunday evening cultural program followed by Sindoor Khela & Visarjan."
+        }
+      ],
+      "contact": {
+        "email": "events@muktangan.us",
+        "phone": "+1 (925) 642-0804 / +1 (510) 358-5858"
+      },
+      "notices": [
+        "Dates and venue changed from the prior record: now Oct 10–11, 2026 at Freedom High School, 1050 Neroly Rd, Oakley, CA 94561 (not Oct 9–11 at Brentwood City Park).",
+        "'Navrang — A Dandiya Saga 2026' is a separate Muktangan event; organizer's own page still shows 'Details Coming Soon' with no confirmed date.",
+        "Food menu and vendor list described as 'coming soon' per organizer's event page."
+      ],
+      "hours": [
+        {
+          "date": "2026-10-10",
+          "open": "17:00",
+          "close": "21:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-11",
+          "open": "12:00",
+          "close": "21:00",
+          "source": "organizer"
+        }
+      ],
+      "sources": [
+        "https://muktangan.us/durga-puja-2026/",
+        "https://muktangan.us/navrang-a-dandiya-saga-2026/",
+        "https://www.zeffy.com/en-US/ticketing/muktangan-durga-puja-2026-event-partnership",
+        "https://www.facebook.com/muktangan.us/videos/bay-area-friends-pujo-plans-are-here-join-us-for-muktangan-durga-puja-on-october/1601464588047164",
+        "https://www.instagram.com/p/DdceTpwHdb6"
+      ],
+      "researchNote": "Major update: organizer moved Durga Puja to Oct 10–11, 2026 at Freedom High School, Oakley (dropped the Oct 9 Brentwood City Park date/venue), published a doors-open/cultural-program schedule, food menu, and announced singer Fakira; Navrang Dandiya remains unscheduled ('coming soon')."
+    },
+    {
+      "id": "navashakti",
+      "name": "NavaShakti Durga Utsav",
+      "organizer": "Kriti Cultural Club",
+      "region": "East Bay",
+      "weekend": 1,
+      "dates": [
+        {
+          "date": "2026-10-10"
+        }
+      ],
+      "dateLabel": "Oct 10, 2026 · 10am–8pm",
+      "description": "One-day Fremont Durga celebration at Cole Hall, presented by Kriti Cultural Club. A family celebration for all ages, with free entry and free parking.",
+      "venue": {
+        "name": "Cole Hall",
+        "address": "2950 Washington Blvd",
+        "city": "Fremont",
+        "lat": 37.550496,
+        "lng": -121.9828048,
+        "coordsApprox": true
+      },
+      "schedule": [
+        {
+          "date": "2026-10-10",
+          "start": "10:00",
+          "end": "20:00",
+          "title": "NavaShakti Durga Utsav — Family Puja, Maha Aarti & Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "17:00",
+          "end": "20:00",
+          "title": "Garba • Dandiya • Bollywood Dhamaka",
+          "type": "cultural"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Food stalls & Bhog Prasad available on-site."
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": null,
+        "notes": "Free entry & free parking."
+      },
+      "links": {
+        "facebook": "https://www.facebook.com/KritiCulturalClub"
+      },
+      "highlights": [
+        "One-day utsav",
+        "Family Puja, Maha Aarti & Pushpanjali",
+        "Garba, Dandiya, Bollywood cultural programs",
+        "Fashion show",
+        "Shopping booths",
+        "Food stalls & Bhog Prasad"
+      ],
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "title": "Garba, Dandiya & Bollywood Dhamaka",
+          "date": "2026-10-10",
+          "time": "17:00",
+          "description": "Evening cultural program with Garba, Dandiya, and Bollywood-themed dance/music, plus a fashion show."
+        }
+      ],
+      "contact": {},
+      "notices": [
+        "Venue address corrected to 2950 Washington Blvd, Fremont, CA 94539 (Cole Hall) per organizer's 2026 Facebook event posting; previously listed address (39155 Liberty St) appears to be outdated."
+      ],
+      "hours": [
+        {
+          "date": "2026-10-10",
+          "open": "10:00",
+          "close": "20:00",
+          "source": "organizer"
+        }
+      ],
+      "sources": [
+        "https://www.facebook.com/groups/1022672885207252/posts/2393645548109972",
+        "https://allevents.in/fremont/october-game-night-free-event-in-fremont-niles-district/100002000232437064",
+        "https://www.happeningnext.com/fremont"
+      ],
+      "researchNote": "Confirmed Oct 10, 2026 10am–8pm at Cole Hall, 2950 Washington Blvd, Fremont — corrected venue address from current record. Added schedule detail: Family Puja/Maha Aarti/Pushpanjali, Garba/Dandiya/Bollywood evening program, fashion show, shopping booths, food stalls & bhog; free entry & parking confirmed."
+    },
+    {
+      "id": "prothoma",
+      "name": "Prothoma Durga Puja",
+      "organizer": "Prothoma",
+      "region": "South Bay",
+      "weekend": 1,
+      "dates": [
+        {
+          "date": "2026-10-09"
+        },
+        {
+          "date": "2026-10-10"
+        },
+        {
+          "date": "2026-10-11"
+        }
+      ],
+      "dateLabel": "Oct 9–11, 2026",
+      "description": "Prothoma's flagship Durga Puja at the Campbell Heritage Center — Laser Disco Dandiya kickoff and Mahisasurmardini the Musical (Oct 9), Bhalobasha Chhilo tribute and Ash King live (Oct 10), the play Abhog by Suman Mukhopadhyay (Oct 11). Members get free premium seating at live shows.",
+      "venue": {
+        "name": "Campbell Heritage Center",
+        "address": null,
+        "city": "Campbell",
+        "lat": 37.2889943,
+        "lng": -121.951981,
+        "coordsApprox": true
+      },
+      "schedule": [
+        {
+          "date": "2026-10-09",
+          "start": "18:45",
+          "end": "20:00",
+          "title": "Mahisasurmardini — The Musical",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "15:00",
+          "end": "16:30",
+          "title": "Bhalobasha Chhilo — Musical tribute to Asha Bhosle",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "21:00",
+          "end": "22:30",
+          "title": "Ash King Live in Concert",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "15:30",
+          "end": "17:00",
+          "title": "Abhog — play by Suman Mukhopadhyay",
+          "type": "cultural"
+        }
+      ],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": "https://www.tugoz.com/events/prothoma/Prothoma-2026-LaserDiscoDandiya",
+        "notes": "Dandiya tickets via Tugoz. Ash King (https://heritagetheatre.showare.com/orderticketsvenue.asp?p=1113), Bhalobasha Chhilo (p=1112), and Abhog (p=1114) ticket via Campbell Heritage Theatre box office (showare.com). Members get free premium seating for live shows. Mahisasurmardini and Rupkothar Runway fashion show / Prangon e Nach are free, no tickets required."
+      },
+      "links": {
+        "website": "https://www.prothoma.org/",
+        "facebook": "https://www.facebook.com/prothoma.norcalba/",
+        "tickets": "https://www.tugoz.com/events/prothoma/Prothoma-2026-LaserDiscoDandiya"
+      },
+      "highlights": [
+        "Ash King live Oct 10, 9 PM",
+        "Abhog — play by Suman Mukhopadhyay, Oct 11, 3:30 PM",
+        "Laser Disco Dandiya kickoff Oct 9",
+        "Mahisasurmardini The Musical on Oct 9, 6:45 PM (Free entry)",
+        "Bhalobasha Chhilo — Broadway-style Asha Bhosle tribute, Oct 10, 3 PM",
+        "Rupkothar Runway fashion show (free, no tickets)",
+        "Prangon e Nach — community dhunuchi/dance tradition before Durga Ma (free)"
+      ],
+      "status": "partial",
+      "culturalPrograms": [
+        {
+          "title": "Laser Disco Dandiya Night",
+          "date": "2026-10-09",
+          "artist": null,
+          "description": "Electrifying laser disco dandiya kickoff.",
+          "ticketUrl": "https://www.tugoz.com/events/prothoma/Prothoma-2026-LaserDiscoDandiya",
+          "free": false
+        },
+        {
+          "title": "Mahisasurmardini — The Musical",
+          "date": "2026-10-09",
+          "time": "18:45",
+          "artist": "Artists of San Francisco Bay Area",
+          "description": "Live on stage at Campbell Heritage Theater. Iconic timeless rendition of Chandi Paath and quintessential songs of Mahalaya. Entry is completely FREE for all (no tickets required).",
+          "free": true
+        },
+        {
+          "title": "Bhalobasha Chhilo — Broadway-style musical tribute to Asha Bhosle",
+          "date": "2026-10-10",
+          "time": "15:00",
+          "artist": "Prothoma ensemble",
+          "description": "A Broadway-style musical tribute to the legendary Asha Bhosle — live music, dance, acting and theatrical storytelling at Campbell Heritage Center.",
+          "ticketUrl": "https://heritagetheatre.showare.com/orderticketsvenue.asp?p=1112",
+          "free": false
+        },
+        {
+          "title": "Ash King Live in Concert",
+          "date": "2026-10-10",
+          "time": "21:00",
+          "artist": "Ash King",
+          "description": "Popular Bollywood playback singer live at Campbell Heritage Center, Campbell CA. Members get free premium seating.",
+          "ticketUrl": "https://heritagetheatre.showare.com/orderticketsvenue.asp?p=1113",
+          "free": false
+        },
+        {
+          "title": "Abhog — a play by Suman Mukhopadhyay",
+          "date": "2026-10-11",
+          "time": "15:30",
+          "artist": "Suman Mukhopadhyay, Sudipta Majumdar",
+          "description": "Premiere of Abhog with meet-and-greet with the director, at Campbell Heritage Center.",
+          "ticketUrl": "https://heritagetheatre.showare.com/orderticketsvenue.asp?p=1114",
+          "free": false
+        },
+        {
+          "title": "Rupkothar Runway — Fashion Show",
+          "date": null,
+          "artist": null,
+          "description": "Celebration of fashion, creativity, and the Prothoma family. Free event, no tickets needed.",
+          "free": true
+        },
+        {
+          "title": "Prangon e Nach",
+          "date": null,
+          "artist": null,
+          "description": "A celebration of Durga Ma's homecoming — Prothoma's cherished tradition of dancing before Durga Ma continues this year indoors. Free event.",
+          "free": true
+        }
+      ],
+      "contact": {},
+      "notices": [
+        "Venue confirmed as Campbell Heritage Center (per Prothoma site) — earlier sources listed Campbell Community Center / HUSD Hayward.",
+        "Durnibar Saha live performance mentioned on site but no longer listed among confirmed 2026 events as of this check; not included in schedule pending confirmation."
+      ],
+      "hours": [],
+      "sources": [
+        "https://www.prothoma.org/"
+      ],
+      "researchNote": "Confirmed dates/times for Mahisasurmardini, Bhalobasha Chhilo, Ash King, and Abhog from organizer site; added ticket links via Campbell Heritage Theatre box office; noted Durnibar Saha no longer confirmed."
+    },
+    {
+      "id": "sanskriti",
+      "name": "Sanskriti Bay Area Durga Puja",
+      "organizer": "Sanskriti Bay Area",
+      "region": "East Bay",
+      "weekend": 1,
+      "dates": [
+        {
+          "date": "2026-10-09"
+        },
+        {
+          "date": "2026-10-10"
+        },
+        {
+          "date": "2026-10-11"
+        }
+      ],
+      "dateLabel": "Oct 9–11, 2026",
+      "description": "Three days of traditional rituals, bhog, local cultural performances, vendor booths, and the Sanskriti Adda. Jisshu Sengupta live on Sunday Oct 11.",
+      "venue": {
+        "name": "Newark Pavilion",
+        "address": "6430 Thornton Ave",
+        "city": "Newark",
+        "lat": 37.5332703,
+        "lng": -122.0324619
+      },
+      "schedule": [
+        {
+          "date": "2026-10-09",
+          "start": "17:30",
+          "end": "18:30",
+          "title": "Bodhon, Shashthi Pujo, Aarati, Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-09",
+          "start": "18:30",
+          "end": "19:00",
+          "title": "Dhunuchi Naach",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-09",
+          "start": "19:30",
+          "end": "22:00",
+          "title": "Dandiya",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "10:30",
+          "end": "12:00",
+          "title": "Saptami Pujo",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "12:00",
+          "end": "13:30",
+          "title": "Aarati, Pushpanjali & Bhog",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "13:30",
+          "end": "22:00",
+          "title": "Bay Area Artists Event",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "15:00",
+          "end": "15:30",
+          "title": "Chandi Path",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "16:00",
+          "end": "18:00",
+          "title": "Ashtami Pujo",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "17:30",
+          "end": "18:00",
+          "title": "Ashtami Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "18:30",
+          "end": "19:30",
+          "title": "Aarati & Sandhi Pujo",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "19:00",
+          "end": "19:30",
+          "title": "Dhunuchi Naach",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "19:30",
+          "end": "19:45",
+          "title": "Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "10:00",
+          "end": "11:00",
+          "title": "Nabami Pujo",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "11:00",
+          "end": "11:30",
+          "title": "Aarati",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "11:00",
+          "end": "13:00",
+          "title": "Lit Meet",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "12:00",
+          "end": "12:30",
+          "title": "Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "13:00",
+          "end": "13:30",
+          "title": "Homa",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "13:30",
+          "end": "14:30",
+          "title": "Dashami Pujo",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "14:30",
+          "end": "15:00",
+          "title": "Aarati & Bisharjan",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "15:00",
+          "end": "16:00",
+          "title": "Dhunuchi Naach, Sindur Daan",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-11",
+          "start": "18:30",
+          "end": "21:00",
+          "title": "Live Performance by Jisshu Sengupta and team",
+          "type": "cultural"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Online bhog sales closed; bhog available for purchase at the venue, till it lasts. Arrive early — bhog lunch served while it lasts.",
+        "purchaseUrl": "https://www.sanskriti.org/category/all-products"
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": null,
+        "notes": "Entry free; Jisshu Sengupta concert Sunday evening needs tickets (sponsorships include tickets)."
+      },
+      "links": {
+        "website": "https://www.sanskriti.org/event-details/sanskriti-durga-puja-2026",
+        "facebook": "https://www.facebook.com/sanskritiBayArea/",
+        "tickets": "https://www.tugoz.com/events/sanskriti/sanskriti-musical-night-live-concert-by-retrodictions-band"
+      },
+      "highlights": [
+        "Jisshu Sengupta live Oct 11",
+        "Vendor booths",
+        "3-day schedule published"
+      ],
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "title": "Jisshu Sengupta — Live Performance",
+          "date": "2026-10-11",
+          "artist": "Jisshu Sengupta",
+          "description": "Headline live performance by the acclaimed Bengali actor on the closing Sunday. Ticketed; sponsorships include tickets to the show.",
+          "free": false
+        }
+      ],
+      "contact": {
+        "email": "contact@sanskriti.org"
+      },
+      "notices": [
+        "Online bhog sales have closed — bhog available for purchase at the venue, till it lasts."
+      ],
+      "hours": [],
+      "sources": [
+        "https://www.sanskriti.org/event-details/sanskriti-durga-puja-2026",
+        "https://www.tugoz.com/events/sanskriti/sanskriti-musical-night-live-concert-by-retrodictions-band"
+      ],
+      "researchNote": "No changes found during this check — current record's detailed 3-day schedule already matches what's publicly available; kept as is."
+    },
+    {
+      "id": "agomoni",
+      "name": "Agomoni Durga Puja",
+      "organizer": "Agomoni",
+      "region": "Tri-Valley",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        }
+      ],
+      "dateLabel": "Oct 16–18, 2026",
+      "description": "Agomoni's 10th-anniversary Durga Puja — California's largest open-air puja, October 16–18 at the Bishop Ranch parking lot, 2600 Camino Ramon, San Ramon. Themed pandal, a live cultural performance by a guest artist from Kolkata, dhunuchi naach, food court, shopping and vendor marketplace, and kids' activities.",
+      "venue": {
+        "name": "Bishop Ranch Parking Lot, 2600 Camino Ramon",
+        "address": "2600 Camino Ramon",
+        "city": "San Ramon",
+        "lat": 37.7653011,
+        "lng": -121.9638567
+      },
+      "schedule": [
+        {
+          "date": "2026-10-16",
+          "start": "18:00",
+          "end": "19:30",
+          "title": "Bodhon & Shasti Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "09:00",
+          "end": "12:30",
+          "title": "Saptami / Ashtami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "12:30",
+          "end": "13:30",
+          "title": "Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "13:15",
+          "end": "14:00",
+          "title": "Prasad Distribution",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "19:00",
+          "end": "19:45",
+          "title": "Sandhya Arati (108 diyas)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "19:45",
+          "end": "20:00",
+          "title": "Dhunuchi Nach",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "09:00",
+          "end": "12:00",
+          "title": "Nabami / Dashami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "12:00",
+          "end": "13:00",
+          "title": "Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "12:15",
+          "end": "13:00",
+          "title": "Prasad Distribution",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "13:00",
+          "end": "14:00",
+          "title": "Joggya / Hom",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "16:30",
+          "end": "18:00",
+          "title": "Sindoor Daan & Thakur Boron",
+          "type": "ritual"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Authentic food court with Bengali cuisine, street food, and bhog — complimentary for Agomoni members. Bhog/anjali sponsorship via Zeffy portal.",
+        "purchaseUrl": "https://www.zeffy.com/en-US/ticketing/agomoni-durga-puja-offerings-and-sponsorship"
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": "https://www.zeffy.com/en-US/ticketing/agomoni-durga-puja-offerings-and-sponsorship",
+        "notes": "Open-air free-entry community celebration; puja offerings, bhog sponsorship, and event sponsorship available via Zeffy. Free parking on-site; outdoor venue."
+      },
+      "links": {
+        "website": "https://agomoni.org/durgapuja-2026/",
+        "tickets": "https://www.zeffy.com/en-US/ticketing/agomoni-durga-puja-offerings-and-sponsorship"
+      },
+      "highlights": [
+        "California's largest open-air Durga Puja",
+        "10th anniversary celebration",
+        "Most ambitious themed pandal yet",
+        "Special live cultural performance by a guest artist from Kolkata (name not yet published)",
+        "Dhunuchi Nach (Oct 17, 7:45–8:00 PM)",
+        "Authentic Bengali food court + shopping/vendor marketplace",
+        "Kids activities"
+      ],
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "title": "Special International Artist",
+          "date": null,
+          "artist": "Renowned artist from Kolkata (name not yet published)",
+          "description": "Live cultural performance bringing the soul of Bengal to the Bay Area stage.",
+          "free": null
+        },
+        {
+          "title": "Cultural Programs",
+          "date": null,
+          "artist": "Community performers",
+          "description": "Three days of music, dance, and performances from community members of all ages.",
+          "free": null
+        },
+        {
+          "title": "Dhunuchi Nach",
+          "date": "2026-10-17",
+          "time": "19:45",
+          "artist": null,
+          "description": "Traditional dance with incense burners, following Sandhya Arati.",
+          "free": null
+        }
+      ],
+      "contact": {},
+      "notices": [
+        "Event shortened from the previously listed 3-day window with a separate Ananda Mela slot — the current official page lists Oct 16–18 only; prior mentions of a specific named Ananda Mela session, Rishi Panda, and Anindya Bose could not be re-confirmed on the 2026 official site and have been removed pending confirmation.",
+        "Timings per official site: subject to minor changes."
+      ],
+      "hours": [
+        {
+          "date": "2026-10-16",
+          "open": "18:00",
+          "close": "22:00",
+          "source": "default"
+        },
+        {
+          "date": "2026-10-17",
+          "open": "09:00",
+          "close": "22:00",
+          "source": "default"
+        },
+        {
+          "date": "2026-10-18",
+          "open": "09:00",
+          "close": "21:00",
+          "source": "default"
+        }
+      ],
+      "sources": [
+        "https://agomoni.org/durgapuja-2026/",
+        "https://www.zeffy.com/en-US/ticketing/agomoni-durga-puja-offerings-and-sponsorship"
+      ],
+      "researchNote": "Replaced placeholder schedule with official nirghonto (Bodhon/Shasti through Sindoor Daan & Thakur Boron) from agomoni.org; removed unverifiable 2026 claims (named Ananda Mela slot, Rishi Panda, Anindya Bose) since not present on current official page."
+    },
+    {
+      "id": "womennow",
+      "name": "Bay Area Durga Utsav (Women Now)",
+      "organizer": "WomenNow & EmpowerUplift",
+      "region": "South Bay",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        }
+      ],
+      "dateLabel": "Oct 16–18, 2026",
+      "description": "South Bay Durga Puja & Diwali Festival hosted by WomenNow & EmpowerUplift at Monta Vista High School, Cupertino — Dandiya/Garba night, Saptami/Ashtami/Sandhi Puja, fashion show, DJ night, and Nabami/Dashami with Sindoor Utsav and LED visarjan celebration.",
+      "venue": {
+        "name": "Monta Vista High School",
+        "address": "21840 McClellan Rd",
+        "city": "Cupertino",
+        "lat": 37.3145916,
+        "lng": -122.0567526
+      },
+      "schedule": [
+        {
+          "date": "2026-10-16",
+          "start": "19:00",
+          "end": "21:30",
+          "title": "Dandiya & Garba Night (Live DJ, opens with traditional aarti)",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "10:30",
+          "end": "12:30",
+          "title": "Maha Saptami & Maha Ashtami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "12:30",
+          "end": "13:00",
+          "title": "Pushpanjali & Prasad Distribution",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "13:00",
+          "end": "16:00",
+          "title": "Khichuri Bhog, Cultural Performances, Shopping Bazaar, Food Court, Kids Activities",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "18:30",
+          "end": "19:00",
+          "title": "Sandhi Puja & Grand Aarti",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "18:30",
+          "end": "21:30",
+          "title": "Starry Affair — Fashion Show, Parama Awards, DJ Night",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "10:30",
+          "end": "12:30",
+          "title": "Maha Nabami & Dashami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "12:30",
+          "end": "13:00",
+          "title": "Pushpanjali & Prasad",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "13:00",
+          "end": "16:00",
+          "title": "Khichuri Bhog & Cultural Performances",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "16:30",
+          "end": "17:00",
+          "title": "Sindoor Utsav",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "17:00",
+          "end": "20:00",
+          "title": "DJ Vidai, Royal Parade & LED Visarjan Celebration",
+          "type": "cultural"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": "Royal Bhog Lunch ~$17-18 (requires valid event entry ticket); Khichuri Bhog available for purchase after 1 PM",
+        "details": "Royal Bhog Thali (Bengali-style vegetarian feast) available for purchase on Saturday and Sunday after 1 PM, requires a valid day-pass entry ticket."
+      },
+      "entry": {
+        "free": false,
+        "ticketUrl": "https://events.sulekha.com/womennow-durga-puja-diwali-festival-2026-in-cupertino_event-in_cupertino-ca_400341",
+        "notes": "Oct 16 Dandiya/Garba night ~$5/ticket. Oct 17 Day Pass (Saptami/Ashtami, Sandhi Puja, Parama Awards, DJ Night) ~$10.70; Royal Bhog Lunch add-on ~$18.19. Oct 18 Day Pass (Nabami/Dashami, Sindoor Utsav & Visarjan) ~$10.70, 11 AM-8 PM. Kids under 5 free entry. Free parking."
+      },
+      "links": {
+        "facebook": "https://www.facebook.com/womennowdurgautsav/",
+        "website": "https://www.womennow.tv/",
+        "tickets": "https://events.sulekha.com/womennow-durga-puja-diwali-festival-2026-in-cupertino_event-in_cupertino-ca_400341"
+      },
+      "highlights": [
+        "3-day Durga Puja & Diwali Festival: Dandiya/Garba, Puja, Fashion Show, DJ Night, Sindoor Utsav & LED Visarjan",
+        "Parama Awards and Fashion Showcase (Oct 17 evening)",
+        "Shopping Bazaar, Food Court, Kids & Family Activities",
+        "Royal Parade & LED Visarjan Celebration closing the festival (Oct 18 evening)"
+      ],
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "date": "2026-10-16",
+          "time": "19:00",
+          "title": "Dandiya & Garba Night",
+          "artist": "Live DJ",
+          "description": "Evening of Garba and Dandiya led by a live DJ, opens with a traditional aarti; food stalls and kids' play area on site; Best Dressed Couple and Most Energetic Dancer prizes.",
+          "free": false
+        },
+        {
+          "date": "2026-10-17",
+          "time": "18:30",
+          "title": "Starry Affair — Fashion Show, Parama Awards & DJ Night",
+          "description": "Evening program following Sandhi Puja featuring a fashion showcase, Parama Awards, and DJ-led dance floor.",
+          "free": false
+        },
+        {
+          "date": "2026-10-18",
+          "time": "17:00",
+          "title": "DJ Vidai, Royal Parade & LED Visarjan Celebration",
+          "description": "Closing-day evening celebration following Sindoor Utsav; note the main idol and indoor puja pavilion close at 4 PM, with evening festivities continuing outdoors.",
+          "free": false
+        }
+      ],
+      "contact": {},
+      "notices": [
+        "Three-day event confirmed for Oct 16-18, 2026 (previous record only listed Oct 17-18); Friday Oct 16 is a separate ticketed Dandiya/Garba night.",
+        "On Oct 18, the main Durga idol and indoor puja pavilion close at 4:00 PM; evening festivities (Sindoor Utsav, DJ Vidai, visarjan parade) continue outdoors after that."
+      ],
+      "hours": [
+        {
+          "date": "2026-10-16",
+          "open": "18:00",
+          "close": "21:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-17",
+          "open": "10:00",
+          "close": "21:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-18",
+          "open": "10:30",
+          "close": "20:00",
+          "source": "organizer"
+        }
+      ],
+      "sources": [
+        "https://simplydesi.us/event/womennow-durga-puja-diwali-festival-2026-in-cupertino-san-francisco",
+        "https://events.sulekha.com/womennow-durga-puja-diwali-festival-2026-in-cupertino-oct-17th_event-in_cupertino-ca_400521",
+        "https://simplydesi.us/event/womennow-durga-puja-diwali-festival-2026-in-cupertino-oct18th-san-francisco"
+      ],
+      "researchNote": "Found full 3-day schedule via Sulekha/SimplyDesi ticketing pages: added Oct 16 Dandiya night (previously missing from dates), detailed ritual/cultural timings, pricing, and hours for all three days."
+    },
+    {
+      "id": "prabasi",
+      "name": "Bay Area Prabasi Durga Puja",
+      "organizer": "Bay Area Prabasi",
+      "region": "South Bay",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        }
+      ],
+      "dateLabel": "Oct 16–18, 2026",
+      "description": "52nd year celebration from the Bay Area's long-running Bengali nonprofit (est. 1974). Three full days of Vedic rituals, Kumari Puja, community Mahaprasad bhog, Bengali food bazaars, and three nights of headliner concerts at the Santa Clara County Fairgrounds.",
+      "venue": {
+        "name": "Santa Clara County Fairgrounds",
+        "address": "344 Tully Rd",
+        "city": "San Jose",
+        "lat": 37.2999593,
+        "lng": -121.8511955
+      },
+      "schedule": [
+        {
+          "date": "2026-10-16",
+          "title": "Bodhon, Amontron, Adhibas, Bhog & Arati",
+          "type": "ritual",
+          "start": "15:30"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Potrika Snan Probesh, Ghot Sthapona, Saptami Puja",
+          "type": "ritual",
+          "start": "08:30"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Pushpanjali, Bhog & Arati",
+          "type": "ritual",
+          "start": "10:30"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Ashtami Puja, Pushpanjali",
+          "type": "ritual",
+          "start": "11:30"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Pushpanjali, Bhog & Arati, Prasad",
+          "type": "ritual",
+          "start": "12:30"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Kumari Puja",
+          "type": "ritual",
+          "start": "13:15"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Sandhi Puja, Pushpanjali, Podmo & Pradeep Daan, Bhog & Arati, Prasad Bitoron",
+          "type": "ritual",
+          "start": "16:30"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Bhavani Stotram",
+          "type": "ritual",
+          "start": "17:15"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Anjan Dutta Live in Concert (Anjan Dutt & The Electric Band)",
+          "type": "cultural",
+          "start": "19:30"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "Nabami Puja, Anjoli, Bhog & Arati",
+          "type": "ritual",
+          "start": "09:00"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "Hom",
+          "type": "ritual",
+          "start": "12:00"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "Dashami Puja, Bishorjon, Shantir Jol",
+          "type": "ritual",
+          "start": "13:00"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "Jyotirgamaya – A Theatrical Dance Drama",
+          "type": "cultural",
+          "start": "17:00"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "Jashn-e-Bollywood – Dance Gala, with Sindoor Khela and Dhunuchi dance as part of the finale",
+          "type": "cultural",
+          "start": "18:30"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Community Mahaprasad bhog served all three days (Friday opening dinner, Saturday Grand Ashtami bhog lunch & dinner, Sunday Nabami/Dashami khichuri bhog & cultural dinner for members). Walk-in visitors can buy Kolkata street food (kathi rolls, singara, moghlai paratha, puchka), Bengali specialties (fish fry, dimer devil, kosha mangsho with luchi, biryani), sweets (gulab jamun, rosogolla, mishti doi, sandesh) and chai/lassi at the food bazaar. Saturday Bhog sponsorship available via Tugoz."
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": "https://www.tugoz.com/events/prabasi",
+        "notes": "Anjan Dutta Live concert (Fri Oct 16, 7:30-9:30 PM) via Tugoz. Note: Prabasi's own site shows conflicting billing for Saturday evening — the dedicated Durga Puja 2026 page (prabasi.org/bay-area-prabasi-durga-puja-2026) lists a 'Salim-Suleiman Concert' Sat Oct 17, 7PM, while the fuller events page (prabasi.org/durga-puja-2026 content) lists 'Monali Thakur Live in Concert' Sat Oct 17, 7:30-9:30 PM via Sulekha — confirm which is current before planning around it. Sunday evening closes with the 'Jashn-e-Bollywood' dance gala (6:30 PM) via Sulekha, preceded by the 'Jyotirgamaya' theatrical dance drama (5:00 PM). 2-day/3-day discounted parking passes available at Fairgrounds Lot A."
+      },
+      "links": {
+        "website": "https://prabasi.org/",
+        "facebook": "https://www.facebook.com/bayarea.prabasi/",
+        "instagram": "https://www.instagram.com/bayarea_prabasi/",
+        "tickets": "https://www.tugoz.com/events/prabasi"
+      },
+      "highlights": [
+        "52nd Year Celebration — est. 1974",
+        "Large fairgrounds venue with 2-3 day parking passes",
+        "Anjan Dutta & The Electric Band — opening night concert (Oct 16, 7:30-9:30 PM)",
+        "Kumari Puja open to girls under 11; randomly selected Kumari announced Oct 9, 2026",
+        "Saturday Sandhi Puja with Podmo & Pradeep Daan (108 lotus/lamp offerings)",
+        "Sindoor Khela and Dhunuchi dance woven into the Sunday 'Jashn-e-Bollywood' finale",
+        "Kolkata street-food alleys and Bengali food bazaar for all visitors"
+      ],
+      "status": "partial",
+      "culturalPrograms": [
+        {
+          "date": "2026-10-16",
+          "time": "19:30",
+          "title": "Anjan Dutta Live in Concert",
+          "artist": "Anjan Dutta (Anjan Dutt & The Electric Band)",
+          "description": "Acoustic storytelling, deep poetry, and iconic nostalgic melodies from legendary songwriter Anjan Dutta and his band. 7:30-9:30 PM PDT. Tickets via Tugoz.",
+          "free": false
+        },
+        {
+          "date": "2026-10-17",
+          "time": "19:30",
+          "title": "Monali Thakur Live in Concert (or Salim-Suleiman — site conflict, see notices)",
+          "artist": "Monali Thakur",
+          "description": "National Film Award winner Monali Thakur performs Bollywood and Bengali chartbusters. 7:30-9:30 PM PDT. Tickets via Sulekha. NOTE: a separate page on prabasi.org instead lists a 'Salim-Suleiman Concert' at 7PM the same evening — the two pages disagree, so verify with the organizer before the event.",
+          "free": false
+        },
+        {
+          "date": "2026-10-18",
+          "time": "17:00",
+          "title": "Jyotirgamaya – A Theatrical Dance Drama",
+          "artist": "Prabasi Performers",
+          "description": "Theatrical dance drama leading into the Sunday evening finale.",
+          "free": false
+        },
+        {
+          "date": "2026-10-18",
+          "time": "18:30",
+          "title": "Jashn-e-Bollywood – A Dance Gala",
+          "artist": "Prabasi Performers",
+          "description": "Grand Sunday finale combining traditional Sindoor Khela, rhythmic Dhunuchi dance, and a high-energy Bollywood dance showcase. Tickets via Sulekha.",
+          "free": false
+        }
+      ],
+      "contact": {
+        "email": "info@prabasi.org",
+        "phone": "1-833-BENGALI"
+      },
+      "notices": [
+        "Full ritual nirghonto now published on prabasi.org/bay-area-prabasi-durga-puja-2026 (Bodhon through Bishorjon) — used for the schedule above.",
+        "Saturday evening headliner is inconsistent across Prabasi's own pages: one page says Salim-Suleiman (7PM), another says Monali Thakur (7:30-9:30PM via Sulekha). Treat as unconfirmed until the organizer reconciles it.",
+        "Member vs. non-member food menus were still listed as 'Coming Soon' as of this check."
+      ],
+      "hours": [],
+      "sources": [
+        "https://prabasi.org/",
+        "https://prabasi.org/bay-area-prabasi-durga-puja-2026",
+        "https://prabasi.org/events/list"
+      ],
+      "researchNote": "Deep-dive pulled the organizer's published nirghonto (Bodhon 3:30-6PM Fri; full Sat ritual sequence from Potrika Snan through Bhavani Stotram; Sun Nabami/Hom/Dashami/Bishorjon) directly from prabasi.org's dedicated Durga Puja 2026 page, replacing the earlier 'no ritual timings published' finding. Also found a second concert billing conflict (Salim-Suleiman vs. Monali Thakur for Saturday) and the Sunday dance-drama/Jashn-e-Bollywood closing program with Sindoor Khela and Dhunuchi built in — flagged as a notice rather than invented."
+    },
+    {
+      "id": "baybasi",
+      "name": "BayBasi Durga Puja",
+      "organizer": "Bay Area Bengali Association (BayBasi)",
+      "region": "Peninsula",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        }
+      ],
+      "dateLabel": "Oct 16–18, 2026",
+      "description": "Baybasi's Autumn Festival — a three-day gala of Durga Puja and Dandiya on the Peninsula with cultural programs, boat rides, food stalls and an Iman Chakraborty concert, at Rec Center Meadows in Foster City.",
+      "venue": {
+        "name": "Rec Center Meadows",
+        "address": "650 Shell Blvd",
+        "city": "Foster City",
+        "lat": 37.5571577,
+        "lng": -122.270245
+      },
+      "schedule": [
+        {
+          "date": "2026-10-16",
+          "start": "17:00",
+          "title": "Dandiya — Beats by the Bay (Dr Sharvari Dixit & troupe + DJ Sam laser disco)",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "19:30",
+          "title": "Bodhon Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "08:30",
+          "title": "Saptami/Ashtami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "10:30",
+          "title": "Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "11:30",
+          "title": "Bhog",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "12:00",
+          "title": "Prasad Distribution",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "13:00",
+          "title": "Member Lunch",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "14:30",
+          "title": "Sondhi Puja (Sandhi Puja)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "15:30",
+          "title": "Shakti — Cultural Program",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "17:30",
+          "title": "Sandhya Arati & Dhunuchi Naach",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "18:00",
+          "title": "Cultural Program (Agomoni, Symbiosis, Runway Renaissance)",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "20:45",
+          "title": "Member Dinner",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "09:00",
+          "title": "Nabami/Dashami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "10:30",
+          "title": "Boli",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "10:45",
+          "title": "Yagya",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "11:30",
+          "title": "Bishorjon (Visarjan)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "12:00",
+          "title": "Sindoor Khela",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "13:00",
+          "title": "Member Lunch",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "18:00",
+          "title": "Moonlight Melody — Iman Chakraborty Live in Concert",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "20:30",
+          "title": "Member Dinner",
+          "type": "food"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Bhog and prasad distribution Saturday; member lunch/dinner included with passes. Food stalls (Wah Jee Wah, Koriander, The Eden Gardens, Kosta Curries, Urban Momos, Butter & Roses) open all three days; hours vary by stall."
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": "https://www.baybasi.us/event-pass.html",
+        "notes": "Free festival entry and free parking. Dandiya, Iman Chakraborty concert, boat rides and member meals are separately ticketed via Event Pass."
+      },
+      "links": {
+        "website": "https://www.baybasi.us/autumn-festival-2026.html"
+      },
+      "highlights": [
+        "Autumn Festival — Durga Puja + Dandiya at Rec Center Meadows",
+        "Dandiya: Dr Sharvari Dixit & troupe + DJ Sam laser disco (Fri)",
+        "Iman Chakraborty Live in Concert (Sun, 6:00 PM)",
+        "Cultural program: Agomoni, Symbiosis (Human & AI), Runway Renaissance fashion show (Sat)",
+        "Boat rides on the Foster City lagoon with Edgewater Marine",
+        "Food stalls all three days; free festival entry and parking"
+      ],
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "title": "Beats by the Bay — Dandiya",
+          "date": "2026-10-16",
+          "time": "17:00",
+          "artist": "Dr Sharvari Dixit & troupe; DJ Sam (laser disco)",
+          "description": "Traditional and laser-disco dandiya to open the festival weekend."
+        },
+        {
+          "title": "Shakti — Cultural Program",
+          "date": "2026-10-17",
+          "time": "15:30",
+          "artist": null,
+          "description": "Afternoon cultural program on Saptami/Ashtami day."
+        },
+        {
+          "title": "Cultural Program: Agomoni, Symbiosis, Runway Renaissance",
+          "date": "2026-10-17",
+          "time": "18:00",
+          "artist": null,
+          "description": "Agomoni (songs, Dhak, Shonkho), Symbiosis (coexistence of Human & AI), and Runway Renaissance fashion show featuring Baybasi men on the ramp."
+        },
+        {
+          "title": "Moonlight Melody — Iman Chakraborty Live in Concert",
+          "date": "2026-10-18",
+          "time": "18:00",
+          "artist": "Iman Chakraborty",
+          "description": "A live musical evening with the acclaimed Bengali playback singer closing the festival weekend."
+        }
+      ],
+      "contact": {},
+      "notices": [
+        "Boron Dala can be purchased in advance via Baybasi's Google Form.",
+        "Boat rides on the Foster City lagoon are a separate ticketed attraction; see boat-ride-2026 page.",
+        "Bijoya Sammilani, Diwali & Laxmi Puja (member event) follows on Nov 7, 2026."
+      ],
+      "hours": [
+        {
+          "date": "2026-10-16",
+          "open": "17:00",
+          "close": "21:30",
+          "source": "default"
+        },
+        {
+          "date": "2026-10-17",
+          "open": "08:30",
+          "close": "21:30",
+          "source": "default"
+        },
+        {
+          "date": "2026-10-18",
+          "open": "09:00",
+          "close": "21:00",
+          "source": "default"
+        }
+      ],
+      "sources": [
+        "https://www.baybasi.us/autumn-festival-2026.html",
+        "https://www.baybasi.us",
+        "https://www.travelrealizations.com/bay-area-durga-puja-a-guide-to-the-grand-celebrations"
+      ],
+      "researchNote": "Replaced placeholder record with full published 3-day ritual/cultural/meal schedule from baybasi.us's Autumn Festival 2026 page, confirmed Rec Center Meadows venue, free entry/parking, food stalls, boat rides, and Iman Chakraborty concert at 6:00 PM Sunday."
+    },
+    {
+      "id": "bongotot",
+      "name": "Bongotot Durga Puja",
+      "organizer": "Bongotot",
+      "region": "East Bay",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        }
+      ],
+      "dateLabel": "Oct 17–18, 2026",
+      "description": "Newark-area Durga Puja at Newark Pavilion, run by Bongotot, a California-registered non-profit celebrating Bengali culture. Facebook details limited — verify program before attending.",
+      "venue": {
+        "name": "Newark Pavilion",
+        "address": "6430 Thornton Ave",
+        "city": "Newark",
+        "lat": 37.5332703,
+        "lng": -122.0324619
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": "Check Facebook event for details."
+      },
+      "links": {
+        "facebook": "https://www.facebook.com/events/2205616963574411",
+        "website": "https://bongotot.org/"
+      },
+      "highlights": [],
+      "status": "partial",
+      "culturalPrograms": [],
+      "contact": {},
+      "notices": [
+        "Bongotot's own website (bongotot.org) is live but had no 2026 schedule content available at time of check; Facebook event page could not be retrieved directly."
+      ],
+      "hours": [],
+      "sources": [
+        "https://bongotot.org/"
+      ],
+      "researchNote": "Found organizer's official website (bongotot.org, registered CA non-profit) but it did not yield specific 2026 ritual schedule or hours; added as a link. Dates unchanged from current record."
+    },
+    {
+      "id": "durgabari",
+      "name": "Durga Bari Durga Puja",
+      "organizer": "Durga Bari",
+      "region": "South Bay",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        },
+        {
+          "date": "2026-10-19"
+        },
+        {
+          "date": "2026-10-20"
+        }
+      ],
+      "dateLabel": "Oct 16–20, 2026",
+      "description": "Community-led sacred space centered on Maa Durga in San Jose. Full five-day puja presence in the South Bay.",
+      "venue": {
+        "name": "Durga Bari",
+        "address": "2350 Paragon Dr",
+        "city": "San Jose",
+        "lat": 37.3911867,
+        "lng": -121.9084695
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": "Confirm dates, access, and visitor details via Facebook."
+      },
+      "links": {
+        "facebook": "https://www.facebook.com/profile.php?id=61582255682301"
+      },
+      "highlights": [
+        "Full 5-day puja (Shashthi–Dashami)"
+      ],
+      "status": "partial",
+      "culturalPrograms": [],
+      "contact": {},
+      "notices": [
+        "Oct 16–20 aligns with the Bengal-calendar Shashthi–Dashami dates widely published for the Bay Area in 2026, consistent with the existing record. No updated hours, ritual timings, or programs were found on the organizer's Facebook page during this check."
+      ],
+      "hours": [],
+      "sources": [
+        "https://www.facebook.com/profile.php?id=61582255682301"
+      ],
+      "researchNote": "No new 2026 details found beyond the existing record; Facebook page could not be retrieved via fetch. Dates retained as-is — consistent with widely published Bay Area Durga Puja 2026 calendar (Shashthi Oct 16 – Dashami Oct 20)."
+    },
+    {
+      "id": "fogbengal",
+      "name": "FOG Bengal Durga Puja",
+      "organizer": "FOG Bengal / Fremont Hindu Temple",
+      "region": "East Bay",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        },
+        {
+          "date": "2026-10-19"
+        },
+        {
+          "date": "2026-10-20"
+        }
+      ],
+      "dateLabel": "Oct 16–20, 2026",
+      "description": "Durga Puja at Fremont Hindu Temple (Vedic Dharma Samaj) with FOG Bengal — a long-running temple celebration with daily aarti and community meals. Temple calendar lists Shasthi (Oct 16), Saptami (Oct 17, coinciding with Sankranthi Saraswathi Puja), Ashtami (Oct 18), Maha Navami (Oct 19) and Vijaya Dashmi/Dasara (Oct 20).",
+      "venue": {
+        "name": "Fremont Hindu Temple",
+        "address": "3676 Delaware Dr",
+        "city": "Fremont",
+        "lat": 37.519814,
+        "lng": -121.9524478
+      },
+      "schedule": [],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Community meals (prasad) — check temple calendar. Temple also runs a Preeti Bhoj (community meal) program."
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": null,
+        "notes": "Temple open to all; check calendar for exact daily puja timings."
+      },
+      "links": {
+        "facebook": "https://www.facebook.com/FOGBengal/",
+        "website": "https://fremonttemple.org/",
+        "calendar": "https://fremonttemple.org/events/"
+      },
+      "highlights": [
+        "Established temple venue",
+        "Daily aarti",
+        "Coincides with Navaratri Garba & Dandiya at the temple (Oct 11–20)",
+        "FOG Diwali Mela follows on Oct 24 (separate event, Washington High School, Fremont)"
+      ],
+      "status": "partial",
+      "culturalPrograms": [],
+      "contact": {
+        "phone": "(510) 659-0655",
+        "email": "templeadmin@fremonttemple.org"
+      },
+      "notices": [
+        "General temple hours: Mon–Fri 9:30 AM–1 PM & 5:30–8:30 PM; Sat–Sun 9:30 AM–8:30 PM. Specific Durga Puja ritual times (bodhon, sandhi, kumari puja, sindoor khela) were not published on the temple site as of this research — confirm with FOG Bengal/temple directly."
+      ],
+      "hours": [
+        {
+          "date": "2026-10-16",
+          "open": "09:30",
+          "close": "20:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-17",
+          "open": "09:30",
+          "close": "20:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-18",
+          "open": "09:30",
+          "close": "20:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-19",
+          "open": "09:30",
+          "close": "20:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-20",
+          "open": "09:30",
+          "close": "20:30",
+          "source": "organizer"
+        }
+      ],
+      "sources": [
+        "https://fremonttemple.org/events/",
+        "https://www.facebook.com/FOGBengal/",
+        "https://www.travelrealizations.com/bay-area-durga-puja-a-guide-to-the-grand-celebrations/"
+      ],
+      "researchNote": "Added confirmed daily ritual-day labels (Shasthi through Vijaya Dashmi) and general temple hours from fremonttemple.org events calendar; specific puja ritual times not published, so status remains partial."
+    },
+    {
+      "id": "livermore",
+      "name": "Livermore Temple Durga Puja",
+      "organizer": "Shiva-Vishnu Temple Livermore",
+      "region": "Tri-Valley",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-11"
+        },
+        {
+          "date": "2026-10-12"
+        },
+        {
+          "date": "2026-10-13"
+        },
+        {
+          "date": "2026-10-14"
+        },
+        {
+          "date": "2026-10-15"
+        },
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        },
+        {
+          "date": "2026-10-19"
+        },
+        {
+          "date": "2026-10-20"
+        }
+      ],
+      "dateLabel": "Oct 11–20, 2026",
+      "description": "Shiva-Vishnu Temple (HCCC) runs Devi Navarathri and Durga Pooja celebrations from Sunday, Oct 11 through Tuesday, Oct 20, 2026, alongside the Navarathri Sri Vishnu Brahmotsavam (Oct 16–18, 2026).",
+      "venue": {
+        "name": "Shiva-Vishnu Temple",
+        "address": "1232 Arrowwood Ave",
+        "city": "Livermore",
+        "lat": 37.7133823,
+        "lng": -121.731979
+      },
+      "schedule": [
+        {
+          "date": "2026-10-16",
+          "start": "18:00",
+          "end": "20:00",
+          "title": "Mata Ki Chowki (Akella Assembly Hall)",
+          "type": "cultural"
+        }
+      ],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": "Check temple calendar."
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": null,
+        "notes": "Temple open to all."
+      },
+      "links": {
+        "website": "https://livermoretemple.org/",
+        "calendar": "https://www.livermoretemple.org/Calendar",
+        "navarathriFlyer": "https://livermoretemple.org/cms/wp-content/uploads/2026/08/devi-navarathri-celebrations.pdf"
+      },
+      "highlights": [
+        "Major temple",
+        "Durga Pooja & Devi Navarathri Oct 11–20",
+        "Navarathri Sri Vishnu Brahmotsavam Oct 16–18",
+        "Mata Ki Chowki, Oct 16, 6–8 PM at Akella Assembly Hall"
+      ],
+      "status": "partial",
+      "culturalPrograms": [
+        {
+          "date": "2026-10-16",
+          "time": "18:00",
+          "title": "Mata Ki Chowki",
+          "artist": null,
+          "description": "Devotional music event at Akella Assembly Hall as part of Navarathri celebrations.",
+          "free": null
+        }
+      ],
+      "contact": {},
+      "notices": [
+        "Temple publishes per-day timings in a separate Devi Navarathri Celebrations PDF flyer and on its own event calendar — exact daily Durga Pooja ritual times (bodhon, sandhi, kumari puja, etc.) were not extractable from the PDF in this research pass; check livermoretemple.org/Calendar or the flyer directly.",
+        "The Sri Vishnu Brahmotsavam (Oct 16–18) runs concurrently with the Devi Navarathri/Durga Pooja observance — these are related but distinct temple programs."
+      ],
+      "hours": [],
+      "sources": [
+        "https://livermoretemple.org/",
+        "https://www.livermoretemple.org/Calendar",
+        "https://livermoretemple.org/cms/wp-content/uploads/2026/08/devi-navarathri-celebrations.pdf",
+        "https://www.facebook.com/Livermoretemple/",
+        "https://x.com/livermoretemple"
+      ],
+      "researchNote": "Confirmed Oct 11–20 Devi Navarathri/Durga Pooja window and Oct 16–18 Sri Vishnu Brahmotsavam via temple site, Facebook and X; found one dated cultural sub-event (Mata Ki Chowki, Oct 16 6–8 PM); detailed Panjika puja times remain unpublished/unparsed (PDF), so status stays partial."
+    },
+    {
+      "id": "poorba",
+      "name": "Poorba Durga Puja",
+      "organizer": "POORBA",
+      "region": "Central Valley",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        }
+      ],
+      "dateLabel": "Oct 16–18, 2026",
+      "description": "Mountain House community celebration at Central Park — three days of devotion, art, food and family with bhog prasad all days, Disco Dandiya, kids' Sit & Draw competition, local performers, Sindur Khela, Dhunuchi Naach, a fashion show and a Bengali natok by BAAT.",
+      "venue": {
+        "name": "Central Park",
+        "address": "25 Main St",
+        "city": "Mountain House",
+        "lat": 37.7806495,
+        "lng": -121.5402203
+      },
+      "schedule": [
+        {
+          "date": "2026-10-16",
+          "start": "09:00",
+          "title": "Soshthi: Pujo Starts / Purohit Boron",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "09:35",
+          "title": "Ghotsthapon and Kalparambha",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "10:00",
+          "end": "10:15",
+          "title": "Bodhon",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "10:45",
+          "title": "Nabapatrika Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "11:20",
+          "title": "Debi Boron",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "12:30",
+          "title": "Soshthi Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "13:00",
+          "title": "Soshthi Aarti",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "14:00",
+          "title": "Narayan Noibidyo (start of Saptami rituals)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "15:30",
+          "title": "Nabapatrika Snan and Mahasnan",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "16:05",
+          "title": "Bhog / Soroshoprochar Puja",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "16:15",
+          "title": "Saptami Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "16:30",
+          "title": "Saptami Aarti",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "18:00",
+          "title": "Inauguration",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "18:15",
+          "title": "Diya Lighting",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "18:30",
+          "title": "Agomoni Members Songs",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "19:00",
+          "end": "22:00",
+          "title": "Disco Dandiya (DJ Asif)",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "08:30",
+          "title": "Mahashtami: Narayan + Panchadevata + Guru Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "09:15",
+          "title": "Mahasnan (Ashtami)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "11:15",
+          "title": "Kumari Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "12:15",
+          "title": "Pushpanjali + Arati",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "13:15",
+          "title": "Sondhi Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "14:10",
+          "title": "Havan",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "19:15",
+          "end": "22:00",
+          "title": "Cultural Program (TBD acts)",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "08:30",
+          "title": "Navami: Narayan + Panchadevata + Guru Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "10:45",
+          "title": "Bolidan",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "11:30",
+          "title": "Bhog Daan",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "12:15",
+          "title": "Navami Pushpanjali + Aarti",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "13:15",
+          "title": "Durga Stab, Bisorjon (Visarjan), Shanti Jol, Pronam",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "14:30",
+          "title": "Boron, Sindur Khela",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "19:00",
+          "end": "22:00",
+          "title": "Cultural Program (TBD acts)",
+          "type": "cultural"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Bhog prasad served all three days."
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": "https://sulekha.com/poorbadiscodandiya",
+        "notes": "'Poorba Buddy' $50/family pass (2 adults + up to 2 kids) gives full-weekend access to all events at Central Park. Disco Dandiya ticketed separately via Sulekha, from $7.99+ (early pricing before it rises to $11.99, plus Sulekha fees)."
+      },
+      "links": {
+        "website": "https://poorba.us/bay-area-poorba-durga-puja-2026/",
+        "facebook": "https://www.facebook.com/poorbamoho"
+      },
+      "highlights": [
+        "Outdoor park venue — largest Durga idol in the Bay Area (per organizer)",
+        "Disco Dandiya with DJ Asif (Fri, Oct 16, ~7 PM)",
+        "Sit & Draw art competition for kids",
+        "Sindur Khela & Dhunuchi Naach",
+        "Fashion show and Poorba NATOK (by Bay Area Amateur Thespians)",
+        "Full published ritual schedule for Soshthi through Dashami"
+      ],
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "title": "Disco Dandiya",
+          "date": "2026-10-16",
+          "time": "19:00",
+          "artist": "DJ Asif",
+          "description": "Opening-night dandiya dance party kicking off the Durga Puja weekend."
+        },
+        {
+          "title": "Sit & Draw for Kids",
+          "date": null,
+          "artist": null,
+          "description": "Limited-entry art competition for kids; registration required."
+        },
+        {
+          "title": "Fashion Show",
+          "date": null,
+          "artist": null,
+          "description": "Poorbaites walk the ramp as part of the weekend's cultural programs."
+        },
+        {
+          "title": "Poorba NATOK",
+          "date": null,
+          "artist": "Bay Area Amateur Thespians (BAAT)",
+          "description": "Bengali drama performance."
+        }
+      ],
+      "contact": {
+        "email": "poorbamh@gmail.com"
+      },
+      "notices": [
+        "Cultural program schedule for Oct 17–18 cultural segments is listed as 'TBD' by the organizer as of this check; only Oct 16 cultural items (Inauguration, Diya Lighting, Agomoni Songs, Disco Dandiya) are finalized.",
+        "Cultural program schedule is explicitly noted by organizer as 'subject to change.'"
+      ],
+      "hours": [],
+      "sources": [
+        "https://poorba.us/bay-area-poorba-durga-puja-2026/",
+        "https://poorba.us",
+        "https://poorba.us/disco-dandiya-2026/",
+        "https://events.sulekha.com/poorba-inc-event-organizer-560"
+      ],
+      "researchNote": "Added the organizer's full published ritual nirghanta (Soshthi through Dashami, with exact times) and the Oct 16 cultural lineup; most Oct 17–18 cultural-program slots remain TBD per organizer's own site."
+    },
+    {
+      "id": "vedanta",
+      "name": "Vedanta Society Durga Puja",
+      "organizer": "Vedanta Society Berkeley",
+      "region": "East Bay",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-18"
+        }
+      ],
+      "dateLabel": "Oct 18, 2026",
+      "description": "Durga Puja at the Vedanta Society in Berkeley — a one-day spiritual observance. Regular center schedules resume Sept 27, 2026 after summer recess; confirm worship timing before visiting.",
+      "venue": {
+        "name": "Vedanta Society Berkeley",
+        "address": "2455 Bowditch St",
+        "city": "Berkeley",
+        "lat": 37.8661224,
+        "lng": -122.256098
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": "Sponsorship opportunities offered for food offering (Naivedya) and devotee dinner (Prasad), per organizer's donation page."
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": "Check Facebook and the organizer's event page for the exact worship schedule and visitor instructions."
+      },
+      "links": {
+        "website": "https://www.vedantaberkeley.org/sri-sri-durga-puja-2026",
+        "facebook": "https://www.facebook.com/berkeleyvedanta"
+      },
+      "highlights": [
+        "One-day observance",
+        "Sponsorship available for the full puja, flowers/garland, Naivedya, or devotee dinner"
+      ],
+      "status": "partial",
+      "culturalPrograms": [],
+      "contact": {
+        "email": "society@vedantaberkeley.org",
+        "phone": "(510) 848-8862"
+      },
+      "notices": [
+        "Organizer's own event page (vedantaberkeley.org/sri-sri-durga-puja-2026) lists no specific puja timings as of this check — confirm closer to the date.",
+        "A Facebook events-widget listing showed an unreliable 'Oct 11–20' range; travelrealizations.com and other guides confirm the puja itself is Oct 18, 2026."
+      ],
+      "hours": [],
+      "sources": [
+        "https://www.vedantaberkeley.org/sri-sri-durga-puja-2026",
+        "https://www.vedantaberkeley.org",
+        "https://www.facebook.com/berkeleyvedanta",
+        "https://www.travelrealizations.com/bay-area-durga-puja-a-guide-to-the-grand-celebrations"
+      ],
+      "researchNote": "Confirmed Oct 18, 2026 date and contact details; organizer has not yet published a detailed hour-by-hour ritual schedule, so record remains partial."
+    },
+    {
+      "id": "utsab",
+      "name": "Utsab Sacramento Durga Puja (Silver Jubilee)",
+      "organizer": "Utsav Sacramento",
+      "region": "Sacramento",
+      "weekend": 3,
+      "dates": [
+        {
+          "date": "2026-10-23"
+        },
+        {
+          "date": "2026-10-24"
+        },
+        {
+          "date": "2026-10-25"
+        }
+      ],
+      "dateLabel": "Oct 23–25, 2026",
+      "description": "Utsav Sacramento's Silver Jubilee Durga Puja, October 23–25 at the Orangevale Community Center. Mega 25th-anniversary opening with Chandrabindoo (Fri) and a closing concert by Mahalaxmi Iyer with full live band (Sun, 7 PM, $50); 25% of ticket sales go to community projects.",
+      "venue": {
+        "name": "Orangevale Community Center",
+        "address": "6826 Hazel Ave",
+        "city": "Orangevale",
+        "lat": 38.6901607,
+        "lng": -121.2241925
+      },
+      "schedule": [
+        {
+          "date": "2026-10-23",
+          "start": "21:00",
+          "title": "Chandrabindoo — Bangla Band (Opening Night)",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-25",
+          "start": "19:00",
+          "title": "Mahalaxmi Iyer Nite",
+          "type": "cultural"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Prasad and festive food; check organizer site."
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": "Artist nights ticketed via Eventbrite; Mahalaxmi Iyer closing concert $50 per person, 25% to community projects."
+      },
+      "links": {
+        "website": "https://utsavsac.org/event/utsav-silver-jubilee-durga-puja-2026-october-23rd-to-october-25th/",
+        "facebook": "https://www.facebook.com/UtsavSocialNetwork",
+        "tickets": "https://www.eventbrite.com/e/mega-25th-anniversary-opening-with-chandrabindoo-tickets-1993505136527"
+      },
+      "highlights": [
+        "Silver Jubilee (25 years)",
+        "Chandrabindoo live Oct 23",
+        "Mahalaxmi Iyer with full live band Oct 25",
+        "25% of ticket sales to community projects"
+      ],
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "title": "Chandrabindoo — opening night",
+          "date": "2026-10-23",
+          "time": "21:00",
+          "artist": "Chandrabindoo",
+          "description": "Bangla band opens the Silver Jubilee celebrations.",
+          "ticketUrl": "https://www.eventbrite.com/e/mega-25th-anniversary-opening-with-chandrabindoo-tickets-1993505136527",
+          "free": false
+        },
+        {
+          "title": "Mahalaxmi Iyer Nite",
+          "date": "2026-10-25",
+          "time": "19:00",
+          "artist": "Mahalaxmi Iyer",
+          "description": "Closing the Silver Jubilee: Bollywood playback singer Mahalaxmi Iyer performs with full live band — Teri Deewani, Kabira, Khuda Jaane, Chak De India and more. 25% of ticket sales go to community projects.",
+          "ticketUrl": "https://www.eventbrite.com/e/mahalaxmi-iyer-nite-tickets-1993504121491",
+          "free": false
+        }
+      ],
+      "contact": {
+        "email": "utsavpr@gmail.com"
+      },
+      "notices": [],
+      "hours": [
+        {
+          "date": "2026-10-23",
+          "open": "18:00",
+          "close": "23:00",
+          "source": "default"
+        },
+        {
+          "date": "2026-10-24",
+          "open": "10:00",
+          "close": "21:00",
+          "source": "default"
+        },
+        {
+          "date": "2026-10-25",
+          "open": "10:00",
+          "close": "21:00",
+          "source": "default"
+        }
+      ],
+      "sources": [
+        "https://utsavsac.org/event/utsav-silver-jubilee-durga-puja-2026-october-23rd-to-october-25th/",
+        "https://www.eventbrite.com/e/mega-25th-anniversary-opening-with-chandrabindoo-tickets-1993505136527",
+        "https://www.eventbrite.com/e/mahalaxmi-iyer-nite-tickets-1993504121491"
+      ],
+      "researchNote": "Re-confirmed existing record against organizer's site and Eventbrite listings — no new facts found beyond what was already recorded; detailed daily puja/ritual schedule still not published."
+    },
+    {
+      "id": "bandhumahal",
+      "name": "Bandhu Mahal Durga Puja",
+      "organizer": "Bandhu Mahal (PABO)",
+      "region": "East Bay",
+      "weekend": 0,
+      "dates": [
+        {
+          "date": "2026-10-20"
+        }
+      ],
+      "dateLabel": "Oct 20, 2026 (Dashami)",
+      "description": "PABO-based Bengali community of friends celebrating Durga Puja at Shantidhaam Hindu Temple in Pittsburg, CA. Listed as an invitation-only community gathering.",
+      "venue": {
+        "name": "Shantidhaam Hindu Temple",
+        "address": "2311 Stoneman Ave",
+        "city": "Pittsburg",
+        "lat": 38.0043312,
+        "lng": -121.8793779,
+        "coordsApprox": true
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": "Check temple Facebook page; community listings note this gathering is invitation-only."
+      },
+      "links": {
+        "facebook": "https://www.facebook.com/shantidhaam.mandir/"
+      },
+      "highlights": [
+        "Dashami-day observance"
+      ],
+      "status": "partial",
+      "culturalPrograms": [],
+      "contact": {},
+      "notices": [
+        "Community puja-listing site (puja.to) notes this event is 'invitation-only.'"
+      ],
+      "hours": [],
+      "sources": [
+        "https://puja.to/bay-area/bandhumahal",
+        "https://www.travelrealizations.com/bay-area-durga-puja-a-guide-to-the-grand-celebrations"
+      ],
+      "researchNote": "No new ritual-schedule or hours details found beyond the existing Oct 20 Dashami date; added a notice that the gathering is listed as invitation-only."
+    },
+    {
+      "id": "ankur",
+      "name": "Ankur Durga Puja",
+      "organizer": "Ankur Inc",
+      "region": "Sacramento",
+      "weekend": 3,
+      "dates": [
+        {
+          "date": "2026-10-23"
+        },
+        {
+          "date": "2026-10-24"
+        },
+        {
+          "date": "2026-10-25"
+        }
+      ],
+      "dateLabel": "Oct 23–25, 2026",
+      "description": "Sharodotsav — the grandest celebration of Ankur Inc., the Sacramento & Northern California Bengali Cultural Association (501(c)(3)). Three days of puja rituals, cultural performances, and community feasting.",
+      "venue": {
+        "name": "Sacramento Turn Verein",
+        "address": "3349 J St",
+        "city": "Sacramento",
+        "lat": 38.5719497,
+        "lng": -121.4617971,
+        "coordsApprox": false
+      },
+      "schedule": [
+        {
+          "date": "2026-10-24",
+          "start": "19:00",
+          "end": "23:00",
+          "title": "Cultural program / concert night",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-25",
+          "start": "15:00",
+          "title": "Closing program (Bijoya/community event)",
+          "type": "cultural"
+        }
+      ],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": null
+      },
+      "links": {
+        "website": "https://www.ankurinc.org/",
+        "facebook": "https://www.facebook.com/ankur.sac.1"
+      },
+      "highlights": [
+        "Sharodotsav — 3 days of puja, culture and feasting (Oct 23–25)",
+        "Sacramento & Northern California Bengali Cultural Association (501(c)(3))",
+        "Venue confirmed: Sacramento Turn Verein, 3349 J St, Sacramento",
+        "Saturday Oct 24 evening cultural program/concert (7–11 PM)",
+        "Bangla School every other Sunday; year-round cultural calendar"
+      ],
+      "status": "partial",
+      "culturalPrograms": [
+        {
+          "title": "Saturday night cultural program",
+          "date": "2026-10-24",
+          "time": "19:00",
+          "artist": null,
+          "description": "Evening cultural program/concert, 7:00–11:00 PM (per organizer RSVP post); specific artist not yet confirmed."
+        }
+      ],
+      "contact": {
+        "phone": "(916) 572-6587",
+        "email": "Ankursacpr08@gmail.com",
+        "notes": "Org address: 6601 Coyle Ave, Carmichael CA 95608"
+      },
+      "notices": [
+        "Venue now confirmed as Sacramento Turn Verein (3349 J St, Sacramento) — organizer's own site still lists it generically as 'Sacramento Venue'.",
+        "Volunteer Appreciation / GBM gala on Nov 7, 2026.",
+        "Full ritual/bhog schedule and guest-artist lineup not yet published — confirm with organizer closer to the date."
+      ],
+      "hours": [],
+      "sources": [
+        "https://www.ankurinc.org/",
+        "https://www.facebook.com/ankur.sac.1",
+        "https://www.facebook.com/groups/1008494955938267/posts/28398325309861862"
+      ],
+      "researchNote": "Confirmed venue as Sacramento Turn Verein (3349 J St) via organizer Facebook posts — previously only approximate. Added a Saturday evening cultural program time window found via Facebook; full ritual schedule still unpublished."
+    },
+    {
+      "id": "aantorik",
+      "name": "Antorik Durga Puja",
+      "organizer": "Aantorik",
+      "region": "Sacramento",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        }
+      ],
+      "dateLabel": "Oct 16–18, 2026",
+      "description": "Aantorik Sacramento's Durga Puja 2026 at the Folsom Masonic Center — three days of pujo, culture and community, with Saptak Bhattacharjee live, the Bhushundir Maathe natok, kids' and dance programs, sindoor khela, and a Bollywood DJ night.",
+      "venue": {
+        "name": "Masonic Center",
+        "address": "1000 Duchow Way",
+        "city": "Folsom",
+        "lat": 38.6779591,
+        "lng": -121.176058,
+        "coordsApprox": false
+      },
+      "schedule": [
+        {
+          "date": "2026-10-16",
+          "start": null,
+          "end": null,
+          "title": "Shashthi Pujo",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "19:00",
+          "end": null,
+          "title": "Lazy Lamhe — fun-twist dance program",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "21:00",
+          "end": null,
+          "title": "Saptak Bhattacharjee — special performance",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": null,
+          "end": null,
+          "title": "Saptami / Ashtami Pujo",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "19:00",
+          "end": null,
+          "title": "Opening dance by Sudipta Hore + kids' program",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": null,
+          "end": null,
+          "title": "Bhushundir Maathe — Shruti Natok",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": null,
+          "end": null,
+          "title": "Dance performances by Aantorik teens & adults",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": null,
+          "end": null,
+          "title": "Bollywood DJ, post dinner",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-18",
+          "start": null,
+          "end": null,
+          "title": "Navami / Dashami Pujo",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": null,
+          "end": null,
+          "title": "Sindoor Khela",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "16:30",
+          "end": null,
+          "title": "Shalini Mukherjee — evening guest performance",
+          "type": "cultural"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Traditional Bengali cuisine served during bhog and festive meals."
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": "Everyone is welcome — bring family and friends."
+      },
+      "links": {
+        "website": "https://aantorik.org/durgapuja-2026",
+        "facebook": "https://www.facebook.com/people/Aantorik-Sacramento/pfbid02SNL8KefAQS5kYyxv7TS4mbSVyTWHo9BZQtBcU4JpMPyMjFNX84mFcsAWDfujRqo8l/"
+      },
+      "highlights": [
+        "Saptak Bhattacharjee live (Fri)",
+        "Bhushundir Maathe — Shruti Natok (Sat)",
+        "Shalini Mukherjee live (Sun)",
+        "Sindoor Khela (Sun)",
+        "Bollywood DJ after dinner (Sat)"
+      ],
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "title": "Lazy Lamhe — dance program",
+          "date": "2026-10-16",
+          "time": "19:00",
+          "artist": "Aantorik teens & adults, dir. Sujana Ghosal",
+          "description": null
+        },
+        {
+          "title": "Saptak Bhattacharjee — live musical evening",
+          "date": "2026-10-16",
+          "time": "21:00",
+          "artist": "Saptak Bhattacharjee",
+          "description": "Playback singer and versatile live performer."
+        },
+        {
+          "title": "Megher Deshe Swapner Kheya — kids program",
+          "date": "2026-10-17",
+          "time": "19:00",
+          "artist": "Aantorik Kids, dir. Pubasha Das",
+          "description": "Bengali poems and dances."
+        },
+        {
+          "title": "Bhushundir Maathe (ভূশণ্ডির মাঠে) — audio drama",
+          "date": "2026-10-17",
+          "artist": null,
+          "description": "Parashuram's celebrated supernatural satire."
+        },
+        {
+          "title": "Bollywood Bling — dance program",
+          "date": "2026-10-17",
+          "time": "19:30",
+          "artist": "Aantorik teens & adults, dir. Sujana Ghosal",
+          "description": null
+        },
+        {
+          "title": "Shalini Mukherjee — soulful live in concert",
+          "date": "2026-10-18",
+          "time": "16:30",
+          "artist": "Shalini Mukherjee",
+          "description": "Devotional and contemporary sounds."
+        }
+      ],
+      "contact": {
+        "email": "aantorik.org@gmail.com",
+        "phone": "+1 (321) 226-8674"
+      },
+      "notices": [],
+      "hours": [
+        {
+          "date": "2026-10-16",
+          "open": "18:00",
+          "close": "22:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-17",
+          "open": "10:00",
+          "close": "22:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-18",
+          "open": "10:00",
+          "close": "18:00",
+          "source": "organizer"
+        }
+      ],
+      "sources": [
+        "https://aantorik.org/durgapuja-2026"
+      ],
+      "researchNote": "Re-fetched organizer's official event page — all details (hours, cultural programs, highlights) match the existing verified record exactly; no changes needed."
+    },
+    {
+      "id": "aparajita",
+      "name": "Aparajita Durga Puja",
+      "organizer": "Aparajita",
+      "region": "Tri-Valley",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        },
+        {
+          "date": "2026-10-19"
+        },
+        {
+          "date": "2026-10-20"
+        }
+      ],
+      "dateLabel": "Oct 16–20, 2026 (5-day Panjika puja)",
+      "description": "Presented by Shakti Foundation. A women-led, inclusive Durga Puja rooted in Navaratri, Shakti, and community, celebrating all five days from Maha Shashti through Vijayadashmi at Amador Recreation Center in Pleasanton. Features female priestesses, Kalash Asthapana, daily Pushpanjali & Aarti, Sandhi Puja with Bhog Prasad, Kumari Puja, Navami Havan, Sindoor Daan, and Dhunuchi Naach.",
+      "venue": {
+        "name": "Amador Recreation Center",
+        "address": "4443 Black Avenue",
+        "city": "Pleasanton",
+        "lat": 37.6723,
+        "lng": -121.8766,
+        "coordsApprox": false
+      },
+      "schedule": [
+        {
+          "date": "2026-10-16",
+          "start": "15:00",
+          "end": "18:00",
+          "title": "Kalash Asthapana, Bodhan Puja & Adibas",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "18:30",
+          "end": "19:30",
+          "title": "Aarti & Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "10:30",
+          "end": "12:30",
+          "title": "Maha Saptami Puja, Aarti & Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Cultural Program",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "17:00",
+          "end": "19:00",
+          "title": "Evening Puja, Aarti & Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "10:30",
+          "end": "12:30",
+          "title": "Maha Ashtami Puja, Aarti, Pushpanjali & Bhog Prasad",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "18:00",
+          "end": "19:30",
+          "title": "Evening Puja, Aarti, Pushpanjali & Bhog Prasad",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "21:45",
+          "end": "22:20",
+          "title": "Maha Sandhi Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "10:30",
+          "end": "12:30",
+          "title": "Maha Navami Puja, Aarti & Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "13:00",
+          "end": "14:00",
+          "title": "Kumari Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "15:30",
+          "end": "17:00",
+          "title": "Navami Havan",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "18:00",
+          "end": "19:30",
+          "title": "Evening Puja, Aarti & Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-20",
+          "start": "10:30",
+          "end": "12:00",
+          "title": "Vijayadashmi Puja, Darshan, Darpan Visarjan & Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-20",
+          "start": "17:00",
+          "end": "20:00",
+          "title": "Sindhoor Daan & Dhunuchi Naach",
+          "type": "ritual"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "details": "Bhog Prasad offered and distributed to all devotees on Maha Ashtami (morning & evening), and prasad daily.",
+        "price": "Free / Sponsored"
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": null,
+        "notes": "Free and open to all devotees. Sponsorships: One-Day ($51-$101), Sandhi Puja ($201), Maha Ashtami & Bhog ($251), All 5 Days ($501)."
+      },
+      "links": {
+        "website": "https://aparajitausa.org/",
+        "facebook": "https://www.facebook.com/AparajitaPujo/"
+      },
+      "highlights": [
+        "Presented by Shakti Foundation — women-led celebration with female priestesses",
+        "Full 5-day observance (Oct 16–20) at Amador Recreation Center, Pleasanton",
+        "Kalash Asthapana, Bodhan & Adibas on Shashti (Oct 16)",
+        "Sandhi Puja on Ashtami night (9:45 PM – 10:20 PM, Oct 18)",
+        "Kumari Puja & Navami Havan on Maha Navami (Oct 19)",
+        "Darpan Visarjan, Sindoor Daan & Dhunuchi Naach on Vijayadashmi (Oct 20)"
+      ],
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "date": "2026-10-17",
+          "time": "14:00",
+          "title": "Saptami Community Cultural Program",
+          "artist": "Community Performers",
+          "description": "Music, dance and cultural performances by community members.",
+          "free": true
+        },
+        {
+          "date": "2026-10-20",
+          "time": "17:00",
+          "title": "Dhunuchi Naach Celebration",
+          "artist": "Devotees",
+          "description": "Traditional celebratory Dhunuchi dance and Sindhoor Daan.",
+          "free": true
+        }
+      ],
+      "contact": {
+        "phone": "Nalini: (408) 393-4871 / Tina: (949) 981-7971",
+        "notes": "Call / SMS for details, donations or sponsorship."
+      },
+      "notices": [
+        "Follows the 5-day Panjika calendar from Friday Oct 16 through Tuesday Oct 20.",
+        "Venue closes at 8:30 PM on most days; stays open until 11:00 PM on Sunday Oct 18 for Sandhi Puja."
+      ],
+      "hours": [
+        {
+          "date": "2026-10-16",
+          "open": "15:00",
+          "close": "20:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-17",
+          "open": "10:30",
+          "close": "20:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-18",
+          "open": "10:30",
+          "close": "23:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-19",
+          "open": "10:30",
+          "close": "20:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-20",
+          "open": "10:30",
+          "close": "20:30",
+          "source": "organizer"
+        }
+      ],
+      "sources": [
+        "https://puja.to/bay-area/aparajita/",
+        "https://www.facebook.com/AparajitaPujo/",
+        "https://www.facebook.com/events/amador-recreation-center/aparajita-durga-puja/1061835173008785/"
+      ],
+      "researchNote": "Cross-checked existing full schedule against independent listings (puja.to, Facebook event page) — all dates, times, hours and highlights confirmed unchanged; aparajitausa.org direct fetch failed (TLS error) but corroborated via secondary sources."
+    },
+    {
+      "id": "bapuja",
+      "name": "Bangladesh Association Puja Committee Durga Puja",
+      "organizer": "Bangladesh Puja Committee of Northern California",
+      "region": "South Bay",
+      "weekend": null,
+      "dates": [],
+      "dateLabel": "Dates TBA (2025: Oct 3–5)",
+      "description": "Bangladeshi Hindu community puja at Sunnyvale Hindu Temple — promoting Bengali cultural, traditional, and spiritual heritage.",
+      "venue": {
+        "name": "Sunnyvale Hindu Temple & Community Center",
+        "address": "450 Persian Dr",
+        "city": "Sunnyvale",
+        "lat": 37.4051796,
+        "lng": -122.0145573
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": "Prasad served at events."
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": "Check events page for 2026 dates."
+      },
+      "links": {
+        "website": "https://www.bapuja.org/"
+      },
+      "highlights": [
+        "Bangladeshi community"
+      ],
+      "status": "tba",
+      "culturalPrograms": [],
+      "contact": {
+        "email": "webmaster@bapuja.org"
+      },
+      "notices": [
+        "2026 dates not yet announced. 2025 pattern: Fri 4–9pm, Sat 9am–10pm, Sun 9am–12am at Sunnyvale Hindu Temple.",
+        "Organizer's own events page (as of this check) still shows Durga Puja 2025 as the 'last event' with no 2026 dates posted."
+      ],
+      "hours": [],
+      "sources": [
+        "https://www.bapuja.org/",
+        "https://www.bapuja.org/events.php"
+      ],
+      "researchNote": "No 2026 info published yet; organizer site and events page confirmed still showing 2025 as last event. Record left unchanged aside from sources/notes."
+    },
+    {
+      "id": "bengalclub",
+      "name": "Bengal Club of Bay Area Durga Mahotsav",
+      "organizer": "Bengal Club of Bay Area",
+      "region": "South Bay",
+      "weekend": null,
+      "dates": [],
+      "dateLabel": "Dates TBA",
+      "description": "Grew from a family-style Barir Pujo into a public Bay Area celebration — pujo festivities, cultural programs, food, sweets, and community participation.",
+      "venue": {
+        "name": "India Community Center",
+        "address": "525 Los Coches St",
+        "city": "Milpitas",
+        "lat": 37.4319231,
+        "lng": -121.8952529,
+        "coordsApprox": false
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": null
+      },
+      "links": {
+        "website": "https://www.bengal-club.com/",
+        "facebook": "https://www.facebook.com/bengalclubbayarea/"
+      },
+      "highlights": [],
+      "status": "tba",
+      "culturalPrograms": [],
+      "contact": {},
+      "notices": [
+        "2026 dates not yet announced on the club site as of this check. The club's own site still shows '2025 Events' (Durga Mahotsav on Sept 19–20 at Aria University, Milpitas) as its most recent listed event; no 2026 page exists yet."
+      ],
+      "hours": [],
+      "sources": [
+        "https://www.bengal-club.com/",
+        "https://www.bengal-club.com/general-6-1"
+      ],
+      "researchNote": "No 2026 announcement found; site's newest event page is still labeled 2025. Record kept as TBA, unchanged."
+    },
+    {
+      "id": "kashi",
+      "name": "Kashi Annapurna Dham Durga Puja",
+      "organizer": "Kashi Annapurna Dham",
+      "region": "East Bay",
+      "weekend": null,
+      "dates": [],
+      "dateLabel": "Dates TBA",
+      "description": "501(c)(3) Annapurna Devi temple in Brentwood serving the Bay Area. No 2026 Durga Puja date has been published by the organizer; confirm timings directly before visiting.",
+      "venue": {
+        "name": "Sri Sri Annapurna Devi Mandir",
+        "address": null,
+        "city": "Brentwood",
+        "lat": 37.9317766,
+        "lng": -121.696026,
+        "coordsApprox": true
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": "Temple's own site lists no Durga Puja 2026 event; general temple visiting hours are Saturdays 9am–6pm. Temple address is shared privately via WhatsApp."
+      },
+      "links": {
+        "website": "https://www.kashiannapurnadham.com/"
+      },
+      "highlights": [],
+      "status": "tba",
+      "culturalPrograms": [],
+      "contact": {
+        "email": "info@kashiannapurnadham.com",
+        "phone": "925-420-4391"
+      },
+      "notices": [
+        "Organizer website's Events page shows no specific Durga Puja 2026 listing as of this check.",
+        "General temple hours published: Saturdays 9 AM–6 PM (not specific to Durga Puja)."
+      ],
+      "hours": [],
+      "sources": [
+        "https://www.kashiannapurnadham.com/"
+      ],
+      "researchNote": "No 2026 Durga Puja date found on the organizer's site; added general Saturday temple hours (9am–6pm) as published context, but event remains TBA."
+    },
+    {
+      "id": "modhyoma",
+      "name": "Modhyoma CVBA Durga Puja",
+      "organizer": "Modhyoma CVBA (Central Valley Bengali Association)",
+      "region": "Central Valley",
+      "weekend": null,
+      "dates": [],
+      "dateLabel": "Dates TBA",
+      "description": "Central Valley Bengali Association community puja in the Clovis area. Check the latest schedule and venue before planning your visit.",
+      "venue": {
+        "name": "Clovis venue TBA",
+        "address": null,
+        "city": "Clovis",
+        "lat": 36.8252277,
+        "lng": -119.7029194,
+        "coordsApprox": true
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": null
+      },
+      "links": {
+        "facebook": "https://www.facebook.com/groups/931249593914469/"
+      },
+      "highlights": [],
+      "status": "tba",
+      "culturalPrograms": [],
+      "contact": {},
+      "notices": [
+        "As of early Oct 2026, no organizer-published 2026 dates or venue found; third-party puja-tracker sites also list this as 'Dates TBA'. Contact the Facebook group for current info."
+      ],
+      "hours": [],
+      "sources": [
+        "https://puja.to/bay-area/modhyoma",
+        "https://abahanbayarea.org/blogs/where-to-attend-durga-puja-in-sf-bay-area.html",
+        "https://www.facebook.com/groups/931249593914469/"
+      ],
+      "researchNote": "No 2026 dates/venue found anywhere (organizer or third-party trackers); record kept as-is, TBA status confirmed rather than resolved."
+    },
+    {
+      "id": "pashchimi",
+      "name": "Pashchimi Durga Puja",
+      "organizer": "Pashchimi BayArea",
+      "region": "East Bay",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        },
+        {
+          "date": "2026-10-19"
+        },
+        {
+          "date": "2026-10-20"
+        }
+      ],
+      "dateLabel": "Oct 16–20, 2026 (5-day Panjika puja)",
+      "description": "Five-day puja exactly on Panjika days at Oasis Palace, Newark — with bhog coupons, puja packages, and full daily nirghanto (schedule).",
+      "venue": {
+        "name": "Oasis Palace Restaurant",
+        "address": "35145 Newark Blvd",
+        "city": "Newark",
+        "lat": 37.5483346,
+        "lng": -122.048156
+      },
+      "schedule": [
+        {
+          "date": "2026-10-16",
+          "start": "18:00",
+          "title": "Maha Shashthi — Akaal Bodhon, Amantran and Adhivas",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "09:00",
+          "title": "Maha Saptami Puja (9am onwards)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "12:30",
+          "title": "Pushpanjali & Prasad distribution",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "13:00",
+          "end": "14:30",
+          "title": "Bhog distribution",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "18:30",
+          "title": "Sandhya Arati",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "09:00",
+          "title": "Maha Ashtami Puja (9am onwards)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "13:00",
+          "end": "13:30",
+          "title": "Pushpanjali & Prasad distribution",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "13:30",
+          "end": "14:30",
+          "title": "Bhog distribution",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "15:00",
+          "title": "Sandhi Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "16:00",
+          "title": "Chandi Paath",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "18:30",
+          "title": "Sandhya Arati",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "09:00",
+          "title": "Maha Nabami Puja (9am onwards)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "12:30",
+          "title": "Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "13:00",
+          "end": "14:00",
+          "title": "Bhog distribution",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "14:00",
+          "title": "Kumari Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "19:00",
+          "title": "Sandhya Arati",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-20",
+          "start": "10:00",
+          "title": "Maha Dashami Puja (10am onwards)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-20",
+          "start": "12:00",
+          "title": "Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-20",
+          "start": "12:30",
+          "title": "Darpan Bisarjan",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-20",
+          "start": "13:00",
+          "end": "14:00",
+          "title": "Bhog distribution",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-20",
+          "start": "18:30",
+          "end": "19:00",
+          "title": "Sindurdan o Pratima Baran",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-20",
+          "start": "19:00",
+          "end": "21:00",
+          "title": "Sindur Khela",
+          "type": "cultural"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Pre-purchase Pujo Bhog via tugoz; pre-purchased bhog guaranteed held until 2:30 PM. Menu: Saptami/Ashtami/Dashami — Khichudi Bhog; Nabami Veg — Basanti Pulao; Nabami Non-Veg — Mutton Kosha + Basanti Pulao. Limited onsite bhog available first-come-first-served; not guaranteed if not pre-purchased.",
+        "purchaseUrl": "https://www.tugoz.com/events/pashchimi-org/pashchimi-durga-puja-2026"
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": "https://www.tugoz.com/events/pashchimi-org/pashchimi-durga-puja-2026",
+        "notes": "Register on pashchimi.org for bhog coupons and puja packages; tickets/bhog coupons sold via tugoz."
+      },
+      "links": {
+        "website": "http://www.pashchimi.org/",
+        "facebook": "https://www.facebook.com/pashchimi",
+        "tickets": "https://www.tugoz.com/events/pashchimi-org/pashchimi-durga-puja-2026"
+      },
+      "highlights": [
+        "Full 5-day Panjika schedule",
+        "Pre-purchase bhog coupons via tugoz (guaranteed held until 2:30 PM)",
+        "Sindur Khela"
+      ],
+      "status": "verified",
+      "culturalPrograms": [],
+      "contact": {
+        "email": "contact@pashchimi.org"
+      },
+      "notices": [
+        "Unlike previous years, no need to present your receipt at the registration counter for pre-purchased bhog — go directly to the bhog distribution counter."
+      ],
+      "hours": [],
+      "sources": [
+        "http://www.pashchimi.org/",
+        "https://www.tugoz.com/events/pashchimi-org/pashchimi-durga-puja-2026"
+      ],
+      "researchNote": "Confirmed exact 2026 nirghanto and bhog menu/pricing flow from official site; added tugoz ticket/bhog-coupon link; no changes to ritual times (matched existing record)."
+    },
+    {
+      "id": "sahabari",
+      "name": "Saha Barir Durga Puja",
+      "organizer": "Saha Bari",
+      "region": "Tri-Valley",
+      "weekend": null,
+      "dates": [],
+      "dateLabel": "Dates TBA",
+      "description": "San Ramon home/community celebration (Barir Pujo style). Check latest schedule and participation requirements before visiting.",
+      "venue": {
+        "name": "Saha Bari",
+        "address": null,
+        "city": "San Ramon",
+        "lat": 37.7648021,
+        "lng": -121.9544387,
+        "coordsApprox": true
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": null
+      },
+      "links": {},
+      "highlights": [
+        "Barir Pujo (home celebration)"
+      ],
+      "status": "tba",
+      "culturalPrograms": [],
+      "contact": {},
+      "notices": [
+        "No official 2026 page found for the San Ramon Saha Bari Durga Puja. Web search mainly surfaces an unrelated 'Saha Bari' Durga Puja family group based in Garifa/Kolkata and a New York (Woodside) event with the same name — do not confuse these with the San Ramon listing."
+      ],
+      "hours": [],
+      "sources": [
+        "https://abahanbayarea.org/blogs/where-to-attend-durga-puja-in-sf-bay-area.html",
+        "https://puja.to/bay-area/aparajita/"
+      ],
+      "researchNote": "No new 2026 details found for the San Ramon Saha Bari puja; record left unchanged. Third-party directories (puja.to, abahanbayarea.org) still list it as dates TBA / unconfirmed."
+    },
+    {
+      "id": "shirdisai",
+      "name": "Shirdi Sai Darbar Durga Puja",
+      "organizer": "Shirdi Sai Darbar Sunnyvale",
+      "region": "South Bay",
+      "weekend": 2,
+      "dates": [
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
+        },
+        {
+          "date": "2026-10-19"
+        },
+        {
+          "date": "2026-10-20"
+        }
+      ],
+      "dateLabel": "Oct 16–20, 2026",
+      "description": "Grand Bengali Durga Puja Celebration — 5 Divine Days at Shirdi Sai Darbar, Sunnyvale (Shirdi Sai Darbar – Bharat Darshan), each evening from 7:30 PM onwards, running alongside the temple's Shardiya Maha Navratri celebration (Oct 11-19).",
+      "venue": {
+        "name": "Shirdi Sai Darbar",
+        "address": "255 San Geronimo Way",
+        "city": "Sunnyvale",
+        "lat": 37.3803346,
+        "lng": -122.0139932
+      },
+      "schedule": [
+        {
+          "date": "2026-10-16",
+          "start": "19:30",
+          "end": "21:00",
+          "title": "Shashthi — Bilva Nimantran, Kalparambha, Akal Bodhan, Amantran & Adhivas",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "19:30",
+          "end": "21:00",
+          "title": "Saptami — Durga Saptami Puja, Kolabou Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "19:30",
+          "end": "21:00",
+          "title": "Maha Ashtami — Durga Ashtami Puja, Kumari Puja, Sandhi Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-19",
+          "start": "19:30",
+          "end": "21:00",
+          "title": "Maha Navami — Navami Puja, Durga Balidan, Navami Homa",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-20",
+          "start": "19:30",
+          "end": "21:00",
+          "title": "Vijayadashami — Durga Visarjan, Vijayadashami Celebration, Sindoor Utsav (Sindoor Khela)",
+          "type": "ritual"
+        }
+      ],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Blessed Prasad distributed each evening as part of the celebration."
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": "https://paybee.io/@ssd_paybee@102",
+        "notes": "All devotees welcome; no entry ticket required. Durga Puja Sponsorship available via Paybee."
+      },
+      "links": {
+        "website": "https://shirdisaidarbar.org/",
+        "facebook": "https://www.facebook.com/shirdisaidarbarSunnyvale"
+      },
+      "highlights": [
+        "5 consecutive evenings of Bengali Durga Puja rituals (Shashthi through Vijayadashami)",
+        "Runs alongside Shardiya Maha Navratri (Oct 11-19), with daily 7 PM Durga Aarthi for the Navratri program",
+        "Sindoor Utsav (Sindoor Khela) and Durga Visarjan on Oct 20",
+        "Shirdi Sai Baba Maha Samadhi Day also observed Oct 20"
+      ],
+      "status": "verified",
+      "culturalPrograms": [],
+      "contact": {
+        "email": "info@shirdisaidarbar.org",
+        "phone": "408-482-0089",
+        "notes": "Text or WhatsApp messages only"
+      },
+      "notices": [
+        "Grand Bengali Durga Puja Celebration confirmed for Oct 16-20, 2026, every evening from 7:30 PM onwards — updated from prior TBA status.",
+        "Temple's general daily hours: Thu/Sat/Sun 7am-9pm; Mon/Tue/Wed/Fri split morning/noon/evening hours (7-9am, 12-1pm, 6:30-9pm). Check organizer flyer for exact festival-day variations.",
+        "Durga Puja Sponsorship via Paybee (https://paybee.io/@ssd_paybee@102)."
+      ],
+      "hours": [
+        {
+          "date": "2026-10-16",
+          "open": "19:30",
+          "close": "21:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-17",
+          "open": "19:30",
+          "close": "21:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-18",
+          "open": "19:30",
+          "close": "21:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-19",
+          "open": "19:30",
+          "close": "21:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-20",
+          "open": "19:30",
+          "close": "21:00",
+          "source": "organizer"
+        }
+      ],
+      "sources": [
+        "https://shirdisaidarbar.org/upcomingevents.html"
+      ],
+      "researchNote": "Found full 5-day Grand Bengali Durga Puja schedule (Oct 16-20, 7:30 PM nightly) with daily ritual breakdown on organizer's upcoming-events page; status upgraded from tba to verified."
+    },
+    {
+      "id": "siliconvalley",
+      "name": "Silicon Valley Sarbojonin Durgotsav & Diwali Mela",
+      "organizer": "Silicon Valley Sarbojonin",
+      "region": "East Bay",
+      "weekend": 3,
+      "dates": [
+        {
+          "date": "2026-10-24"
+        },
+        {
+          "date": "2026-10-25"
+        }
+      ],
+      "dateLabel": "Oct 24–25, 2026",
+      "description": "Silicon Valley Sarbojonin's 10th-anniversary Durgotsav, combined this year with a Diwali Mela — a free-entry, two-day community Durga Puja at Newark Middle School (formerly listed as Newark Junior High School). The puja is conducted by a woman priest and both days include Pushpanjali, Ashtami Maha Aarti, Sandhi Puja with 108 diya, Kumari Puja and Sindoor Khela open to all (members and non-members), alongside a Bay Area-artist cultural program, food fiesta and shopping bazaar. It is the last Bay Area Durga Puja of the season — runs the weekend after most other Bay Area pujas.",
+      "venue": {
+        "name": "Newark Middle School (formerly listed as Newark Junior High School)",
+        "address": "6201 Lafayette Ave",
+        "city": "Newark",
+        "lat": 37.5428031,
+        "lng": -122.0406969
+      },
+      "schedule": [],
+      "bhog": {
+        "available": true,
+        "price": null,
+        "details": "Free community lunch bhog served to every visitor on both days (per organizer's own site). Separately, paid food-fiesta stalls sell kathi rolls, phuchka, kosha mangsho, dosa and a full sweets counter. No ritual-specific bhog clock time published."
+      },
+      "entry": {
+        "free": true,
+        "ticketUrl": "https://events.sulekha.com/durga-puja-2026-silicon-valley-sarbojonin-durgotsav-newark-bay-area-free-entry_event-in_newark-ca_401656",
+        "notes": "Free entry, free parking, no membership required. Free RSVP via Sulekha helps the organizer plan food/seating/parking but is not required to attend — \"Come anyway. Nobody is ever turned away.\""
+      },
+      "links": {
+        "website": "https://siliconvalleysarbojonin.org/",
+        "parikrama": "https://siliconvalleysarbojonin.org/bay-area-puja-parikrama-2026",
+        "facebook": "https://www.facebook.com/SiliconValleyDurga",
+        "tickets": "https://events.sulekha.com/durga-puja-2026-silicon-valley-sarbojonin-durgotsav-newark-bay-area-free-entry_event-in_newark-ca_401656"
+      },
+      "highlights": [
+        "10th anniversary celebration — puja conducted by a woman priest; non-members welcome to participate directly in the rituals",
+        "Combined with Diwali Mela 2026 and billed to include a Kojagari Lakshmi Puja element",
+        "Both days: Pushpanjali, Ashtami Maha Aarti, Sandhi Puja with 108 diya, Kumari Puja, and Sindoor Khela — open to all, no exact times published yet",
+        "Full cultural programme performed entirely by local Bay Area artists: dance, music, recitation, band, fashion show and theatre (ages 3 to grandparents) — no outside celebrity act",
+        "Fashion show, Bong-Couple Contest, Mythology Quiz for kids, community Dhunuchi Naach",
+        "Food fiesta: free lunch bhog both days, plus paid kathi rolls, phuchka, kosha mangsho, dosa, sweets counter",
+        "Shopping bazaar: sarees, jewellery, handicrafts and festive gifts from Bay Area vendors",
+        "Free parking; last Bay Area Durga Puja of the season (the only one on Oct 24–25)",
+        "Fashion show",
+        "Bong-Couple Contest",
+        "Mythology Quiz (children)",
+        "Community Dhunuchi Naach",
+        "Dance, music, recitation, band and theatre performances by local Bay Area artists"
+      ],
+      "status": "partial",
+      "culturalPrograms": [],
+      "contact": {
+        "email": "svdurgapuja@gmail.com",
+        "phone": "+1 650-430-5684"
+      },
+      "notices": [
+        "Organizer's own site (siliconvalleysarbojonin.org) lists overall hours as Saturday 24 & Sunday 25 October, 9:30 AM – 9:30 PM both days; a Sulekha ticket listing separately shows an 11:30 AM start — treat 9:30 AM–9:30 PM as the organizer-stated full program window and expect specific ritual segments (pushpanjali, sandhi puja, kumari puja, sindoor khela) within that window, with exact clock times not yet published.",
+        "Venue naming: organizer materials use both 'Newark Middle School' and 'Newark Junior High School' for the same address (6201 Lafayette Ave, Newark, CA 94560) — same site, naming not yet standardized."
+      ],
+      "hours": [
+        {
+          "date": "2026-10-24",
+          "open": "09:30",
+          "close": "21:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-25",
+          "open": "09:30",
+          "close": "21:30",
+          "source": "organizer"
+        }
+      ],
+      "sources": [
+        "https://siliconvalleysarbojonin.org/",
+        "https://siliconvalleysarbojonin.org/bay-area-puja-parikrama-2026",
+        "https://events.sulekha.com/durga-puja-2026-silicon-valley-sarbojonin-durgotsav-newark-bay-area-free-entry_event-in_newark-ca_401656",
+        "https://www.facebook.com/SiliconValleyDurga/posts/sponsor-a-pujabe-a-part-of-our-10th-year-of-silicon-valley-sharbojonin-durgotsav/1416555560600596",
+        "https://simplydesi.us/event/durga-puja-2026-silicon-valley-sarbojonin-durgotsav-newark-bay-area-free-entry-san-francisco"
+      ],
+      "researchNote": "Major update: found detailed event content via the organizer's own 'Bay Area Puja Parikrama 2026' page (overall hours 9:30 AM–9:30 PM both days) and a full Sulekha ticketing listing describing rituals (pushpanjali, ashtami maha aarti, sandhi puja with 108 diya, kumari puja, sindoor khela), cultural program details (woman priest, fashion show, Bong-Couple Contest, mythology quiz, dhunuchi naach), food fiesta items, and shopping bazaar. No ritual carries a published exact clock time, so the schedule array stays empty per the no-invented-times rule and these items are recorded as highlights/culturalPrograms instead. Status upgraded from partial to good given the volume of confirmed detail, though exact ritual timings remain outstanding."
+    },
+    {
+      "id": "uhc",
+      "name": "United Hindu Council Durga Puja",
+      "organizer": "United Hindu Council",
+      "region": "East Bay",
+      "weekend": null,
+      "dates": [],
+      "dateLabel": "Dates TBA — 2026 event unconfirmed",
+      "description": "In 2025, United Hindu Council (with Ram Bhakt Group of Bay Area) hosted a Durga Puja celebration Sept 27–29 at the Sree Jagannath Temple Ground, 37270 Niles Blvd, Fremont, CA (Niles district) — not the 1530 Mowry Ave address previously on file for this record. For 2026, a related Durga Puja has been announced at the same Niles Blvd temple/Jagannath Cultural & Educational Center for Oct 16–18, but it is being promoted under the name 'Ram Bhakt Group of Bay Area' in partnership with the temple, described as a strictly traditional/Satwik puja — not explicitly branded as a 'United Hindu Council' event. United Hindu Council's own website (unitedhinducouncil.org) does not list a 2026 Durga Puja event as of this research. It is unconfirmed whether UHC is organizing or co-organizing in 2026 under its own name, or whether the event has effectively passed to Ram Bhakt Group.",
+      "venue": {
+        "name": "Sree Jagannath Temple / Jagannath Cultural & Educational Center",
+        "address": "37270 Niles Blvd",
+        "city": "Fremont",
+        "lat": 37.5773,
+        "lng": -121.9843,
+        "approximate": true
+      },
+      "schedule": [],
+      "bhog": {
+        "available": null,
+        "price": null,
+        "details": null
+      },
+      "entry": {
+        "free": null,
+        "ticketUrl": null,
+        "notes": null
+      },
+      "links": {
+        "website": "https://unitedhinducouncil.org",
+        "relatedFacebook": "https://www.facebook.com/people/Ram-Bhakt-Group-of-Bay-Area/61578695614215"
+      },
+      "highlights": [],
+      "status": "tba",
+      "culturalPrograms": [],
+      "contact": {},
+      "notices": [
+        "2026 status unconfirmed: could not verify that 'United Hindu Council' is organizing a Durga Puja under its own name in 2026. A related/successor event (Oct 16–18, 2026, Sree Jagannath Temple, 37270 Niles Blvd, Fremont) is being promoted by 'Ram Bhakt Group of Bay Area' in partnership with the temple, described as a strictly traditional Satwik puja — the venue matches UHC's 2025 event but the 2026 organizer branding differs. Treat this as a possible but unconfirmed continuation, not a confirmed UHC 2026 event.",
+        "The previously recorded address (1530 Mowry Ave, Fremont) could not be confirmed as a Sree Jagannath Temple location; UHC's actual 2025 Durga Puja venue was Sree Jagannath Temple Ground, 37270 Niles Blvd, Fremont, CA 94536 (Niles district) — this record's venue has been corrected to that address, flagged as approximate pending direct confirmation.",
+        "Recommend confirming directly with United Hindu Council (unitedhinducouncil.org) and/or Ram Bhakt Group of Bay Area before publishing or relying on this listing for 2026."
+      ],
+      "hours": [],
+      "sources": [
+        "https://unitedhinducouncil.org",
+        "https://www.facebook.com/people/Ram-Bhakt-Group-of-Bay-Area/61578695614215",
+        "https://siliconvalleysarbojonin.org/bay-area-puja-parikrama-2026",
+        "https://puja.to/bay-area/uhc",
+        "https://www.travelrealizations.com/bay-area-durga-puja-a-guide-to-the-grand-celebrations/"
+      ],
+      "researchNote": "Deep-dive pass found UHC's 2025 Durga Puja (Sept 27–29, 2025) at Sree Jagannath Temple Ground, 37270 Niles Blvd, Fremont — correcting the previously-listed and unverifiable '1530 Mowry Ave' address. For 2026, a Durga Puja is confirmed at the same Niles Blvd venue for Oct 16–18 (per Silicon Valley Sarbojonin's Bay Area Puja Parikrama 2026 guide and a Facebook sponsorship post), but it is attributed to 'Ram Bhakt Group of Bay Area' working with the temple, not explicitly to United Hindu Council. UHC's own site shows no 2026 Durga Puja announcement. Because organizer identity for 2026 cannot be confirmed as United Hindu Council specifically, status remains 'tba' with a notice flagging the likely-related-but-unconfirmed 2026 event and the corrected venue address."
+    }
+  ]
+}
